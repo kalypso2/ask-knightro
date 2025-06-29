@@ -1,0 +1,525 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ask Knightro Chatbot</title>
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Marked.js CDN for Markdown rendering -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        /* Custom Tailwind Configuration for UCF Colors */
+        :root {
+            --color-ucf-gold: #FFCC00;
+            --color-ucf-black: #000000;
+            --color-ucf-dark-gray: #1a1a1a;
+            --color-ucf-medium-gray: #333333;
+            --color-ucf-light-gray: #f0f0f0;
+            --color-ucf-off-white: #fdfdfd;
+        }
+
+        /* Apply custom colors via CSS variables for Tailwind JIT */
+        .bg-ucf-gold {
+            background-color: var(--color-ucf-gold);
+        }
+
+        .text-ucf-gold {
+            color: var(--color-ucf-gold);
+        }
+
+        .border-ucf-gold {
+            border-color: var(--color-ucf-gold);
+        }
+
+        .bg-ucf-black {
+            background-color: var(--color-ucf-black);
+        }
+
+        .text-ucf-black {
+            color: var(--color-ucf-black);
+        }
+
+        .bg-ucf-dark-gray {
+            background-color: var(--color-ucf-dark-gray);
+        }
+
+        .text-ucf-dark-gray {
+            color: var(--color-ucf-dark-gray);
+        }
+
+        .bg-ucf-light-gray {
+            background-color: var(--color-ucf-light-gray);
+        }
+
+        .text-ucf-light-gray {
+            color: var(--color-ucf-light-gray);
+        }
+
+        .bg-ucf-off-white {
+            background-color: var(--color-ucf-off-white);
+        }
+
+        /* General Body Styling for a professional look */
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #1a1a1a 0%, #333333 100%);
+            /* Dark gradient background */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            /* Full viewport height */
+            margin: 0;
+            padding: 20px;
+            /* Add some padding for small screens */
+            box-sizing: border-box;
+            overflow-x: hidden;
+            /* Prevent horizontal scroll on smaller screens due to absolute positioning */
+        }
+
+        /* Message box for alerts, replaces alert() */
+        #messageBox {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: var(--color-ucf-off-white);
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25);
+            /* More pronounced shadow */
+            z-index: 1000;
+            text-align: center;
+            max-width: 90%;
+            border: 1px solid var(--color-ucf-gold);
+            /* Gold border */
+        }
+
+        #messageBox button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: var(--color-ucf-gold);
+            /* UCF Gold button */
+            color: var(--color-ucf-black);
+            /* Black text on gold */
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s ease, transform 0.1s ease;
+        }
+
+        #messageBox button:hover {
+            background-color: #e6b800;
+            /* Slightly darker gold on hover */
+            transform: translateY(-1px);
+        }
+
+        /* Chatbox Specific Styles */
+        .chat-message {
+            margin-bottom: 0.75rem;
+            /* Increased margin for better spacing */
+            padding: 0.65rem 1rem;
+            /* Adjusted padding */
+            border-radius: 0.75rem;
+            /* More rounded corners */
+            max-width: 85%;
+            /* Slightly wider messages */
+            word-wrap: break-word;
+            /* Ensure long words break */
+            font-size: 0.95rem;
+            /* Slightly larger font */
+            line-height: 1.4;
+        }
+
+        .chat-message.user {
+            background-color: #dbeafe;
+            /* light blue for user */
+            color: #1e40af;
+            /* dark blue text */
+            margin-left: auto;
+            text-align: left;
+            /* Keep user messages left aligned within their bubble */
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+        }
+
+        .chat-message.knightro {
+            background-color: var(--color-ucf-off-white);
+            /* Off-white for Knightro */
+            color: var(--color-ucf-dark-gray);
+            /* Dark gray text */
+            margin-right: auto;
+            text-align: left;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+        }
+
+        .chat-message.error-bubble {
+            background-color: #fee2e2;
+            /* Red background */
+            color: #991b1b;
+            /* Dark red text */
+            border: 1px solid #dc2626;
+            /* Red border */
+            font-weight: bold;
+            box-shadow: none;
+            /* Remove subtle shadow for errors */
+        }
+
+        .typing-indicator {
+            font-style: italic;
+            color: #6b7280;
+            /* gray-500 */
+            margin-right: auto;
+            text-align: left;
+            padding-left: 0.5rem;
+            animation: pulse 1.5s infinite ease-in-out;
+            /* Subtle pulse animation */
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.5;
+            }
+        }
+
+        /* Input error styling */
+        .input-error {
+            border-color: #ef4444 !important;
+            /* Red border */
+            box-shadow: 0 0 0 3px rgba(239, 68, 68, 0.5) !important;
+            /* Stronger red glow */
+        }
+
+        /* Container for mascot and chatbox */
+        .relative-container {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            /* Increased max-width to allow more space for the mascot and overall presentation */
+            max-width: 900px;
+            /* Adjusted base max-width for desktop */
+            margin: 0 auto;
+            /* Center the container itself */
+        }
+
+        /* Styling for the Knightro mascot image */
+        #knightroMascot {
+            position: absolute;
+            bottom: 0;
+            right: 50px;
+            /* Further out to give more separation and leaning effect */
+            width: 250px;
+            /* Increased size for prominence */
+            height: auto;
+            transform: rotate(-12deg);
+            /* More pronounced lean */
+            z-index: 10;
+            pointer-events: none;
+            filter: drop-shadow(8px 8px 15px rgba(0, 0, 0, 0.4));
+            /* Stronger, more dramatic shadow */
+            object-fit: contain;
+            transition: transform 0.3s ease;
+            /* Smooth transition for potential future animations */
+            display: none;
+            /* Hidden by default on small screens */
+        }
+
+        @media (min-width: 768px) {
+            #knightroMascot {
+                display: block;
+                /* Show mascot on medium screens and up */
+            }
+
+            .relative-container {
+                max-width: 900px;
+                /* Maintain max-width */
+            }
+        }
+
+        /* Further adjust for larger screens if needed */
+        @media (min-width: 1024px) {
+            #knightroMascot {
+                /* Adjust this value if needed for very large screens */
+                right: 50px;
+                /* Push further left for even larger screens */
+                width: 280px;
+                /* Even larger mascot */
+            }
+
+            .relative-container {
+                max-width: 1100px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Wrapper for Chatbot and Mascot Image -->
+    <div class="relative-container">
+        <!-- Knightro Mascot Image -->
+        <!--
+            *** IMPORTANT: Place your Knightro image file (e.g., 'knightro.png')
+            into the SAME DIRECTORY as your 'index.html' file, OR
+            update the 'src' path below if it's in a subfolder (e.g., 'images/knightro.png').
+            Ensure the image has a TRANSPARENT BACKGROUND (PNG or SVG) for best results
+            to make it look like he's "drawn" onto or "leaning" against the chatbox.
+        -->
+        <img id="knightroMascot" src="knightro.png" alt="Knightro Mascot leaning against the chatbox">
+
+        <!-- Main Chatbot Container -->
+        <div class="bg-ucf-off-white p-8 rounded-xl shadow-2xl w-full max-w-md border border-ucf-gold z-20">
+            <h1 class="text-3xl font-extrabold text-center text-ucf-black mb-6">
+                <span class="text-ucf-gold">Ask</span> Knightro 👑
+            </h1>
+
+            <!-- Chat Display Area -->
+            <div id="chatDisplay"
+                class="h-64 bg-ucf-light-gray p-4 rounded-lg overflow-y-auto mb-4 border border-gray-300 shadow-inner"
+                role="log" aria-live="polite" aria-atomic="false">
+                <!-- Chat messages will appear here -->
+                <div class="text-sm text-gray-500 text-center mb-2 initial-message">Start a conversation with Knightro!
+                </div>
+            </div>
+
+            <!-- Input Area -->
+            <div class="flex gap-3"> <!-- Increased gap -->
+                <input type="text" id="questionInput" placeholder="Ask a question about UCF..."
+                    class="flex-1 p-3.5 border border-gray-300 rounded-lg focus:outline-none focus:ring-3 focus:ring-ucf-gold transition duration-200 text-ucf-dark-gray placeholder-gray-500 shadow-sm"
+                    aria-label="Type your question about UCF" />
+                <button id="sendButton"
+                    class="bg-ucf-gold hover:bg-ucf-black text-ucf-black hover:text-white font-bold py-3.5 px-6 rounded-lg shadow-md transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-3 focus:ring-ucf-gold focus:ring-opacity-75"
+                    aria-label="Send your question">
+                    Send
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Message Box for Alerts (replaces alert()) -->
+    <div id="messageBox" class="rounded-lg shadow-xl" role="alert" aria-modal="true" style="display: none;">
+        <p id="messageText" class="text-lg font-medium text-gray-800"></p>
+        <button onclick="document.getElementById('messageBox').style.display='none'; questionInput.focus();"
+            aria-label="Close message">OK</button>
+    </div>
+
+    <script>
+        // Get references to DOM elements
+        const questionInput = document.getElementById('questionInput');
+        const sendButton = document.getElementById('sendButton');
+        const chatDisplay = document.getElementById('chatDisplay');
+        const messageBox = document.getElementById('messageBox');
+        const messageText = document.getElementById('messageText');
+
+        // Configuration for the API URL
+        const API_URL = 'http://localhost:3000/ask-knightro';
+        const CHAT_HISTORY_STORAGE_KEY = 'askKnightroChatHistory';
+
+        // Initialize chat history from localStorage or as an empty array
+        // chatHistory will ONLY store role and parts, no extra properties for Gemini API
+        let chatHistory = [];
+        let typingIndicatorElement; // To hold the "Knightro is typing..." element
+
+        // Function to display a message in the custom message box
+        function showMessage(message) {
+            messageText.textContent = message;
+            messageBox.style.display = 'block';
+        }
+
+        // Function to save chat history to localStorage
+        function saveChatHistory() {
+            // When saving, filter out any extra properties that are not expected by Gemini API
+            const historyToSave = chatHistory.map(entry => ({
+                role: entry.role,
+                parts: entry.parts
+            }));
+            localStorage.setItem(CHAT_HISTORY_STORAGE_KEY, JSON.stringify(historyToSave));
+        }
+
+        // Function to load chat history from localStorage
+        function loadChatHistory() {
+            const storedHistory = localStorage.getItem(CHAT_HISTORY_STORAGE_KEY);
+            if (storedHistory) {
+                // When loading, ensure we map back to the full object if needed,
+                // but only display what's in 'parts'. `isError` will not be present.
+                // We recreate `chatHistory` to only include `role` and `parts`
+                // even from potentially malformed stored data.
+                chatHistory = JSON.parse(storedHistory).map(entry => ({
+                    role: entry.role,
+                    parts: entry.parts
+                }));
+
+                // Remove initial message if history exists
+                const initialMessage = chatDisplay.querySelector('.initial-message');
+                if (initialMessage) {
+                    initialMessage.remove();
+                }
+                chatHistory.forEach(msg => {
+                    // isError will not be passed from stored history, so we assume false for display purposes
+                    addMessageToChat(msg.role === 'user' ? 'You' : 'Knightro', msg.parts[0].text, msg.role === 'user', false);
+                });
+            }
+        }
+
+        // Function to add a message to the chat display
+        function addMessageToChat(sender, message, isUser = false, isError = false) {
+            const messageElement = document.createElement('div');
+            messageElement.classList.add('chat-message');
+
+            if (isUser) {
+                messageElement.classList.add('user');
+            } else {
+                messageElement.classList.add('knightro');
+                // Only parse markdown if not an error message, as error messages are plain text.
+                if (!isError) {
+                    message = marked.parse(message);
+                }
+            }
+
+            if (isError) {
+                messageElement.classList.add('error-bubble'); // Use specific error class for chat bubble
+                message = `<span class="font-semibold">Error:</span> ${message}`; // Prepend "Error:" for visual clarity
+            }
+
+            messageElement.innerHTML = `<strong class="font-semibold">${sender}:</strong> ${message}`;
+            chatDisplay.appendChild(messageElement);
+            chatDisplay.scrollTop = chatDisplay.scrollHeight; // Scroll to bottom
+            // Announce new message for screen readers
+            chatDisplay.setAttribute('aria-label', `${sender} says ${message.replace(/<[^>]*>?/gm, '')}`); // Remove HTML for SR
+        }
+
+        // Function to show the "Knightro is typing..." indicator
+        function showTypingIndicator() {
+            typingIndicatorElement = document.createElement('div');
+            typingIndicatorElement.classList.add('typing-indicator', 'chat-message', 'knightro');
+            typingIndicatorElement.textContent = 'Knightro is typing...';
+            chatDisplay.appendChild(typingIndicatorElement);
+            chatDisplay.scrollTop = chatDisplay.scrollHeight;
+        }
+
+        // Function to hide the "Knightro is typing..." indicator
+        function hideTypingIndicator() {
+            if (typingIndicatorElement) {
+                typingIndicatorElement.remove();
+                typingIndicatorElement = null;
+            }
+        }
+
+        // Function to apply/remove error styling on the input
+        function setInputError(isError) {
+            if (isError) {
+                questionInput.classList.add('input-error');
+            } else {
+                questionInput.classList.remove('input-error');
+            }
+        }
+
+        // Event listener for the Send button
+        sendButton.addEventListener('click', async () => {
+            const question = questionInput.value.trim();
+            setInputError(false); // Clear previous error styling
+
+            if (question === '') {
+                showMessage('Please enter a question!');
+                setInputError(true);
+                questionInput.focus(); // Keep focus on input if empty
+                return;
+            }
+
+            // Remove initial message if it's still there
+            const initialMessage = chatDisplay.querySelector('.initial-message');
+            if (initialMessage) {
+                initialMessage.remove();
+            }
+
+            // Add user message to display and history
+            addMessageToChat('You', question, true);
+            // Ensure only `role` and `parts` are pushed to chatHistory for API compatibility
+            chatHistory.push({ role: 'user', parts: [{ text: question }] });
+            saveChatHistory(); // Save history after adding user message
+
+            questionInput.value = ''; // Clear the input field
+            sendButton.disabled = true; // Disable button while fetching
+            sendButton.textContent = 'Thinking...'; // Change button text
+            showTypingIndicator(); // Show typing indicator
+
+            try {
+                // Prepare the payload including the full chat history
+                // The `chatHistory.map` here already ensures only `role` and `parts` are sent.
+                const payload = {
+                    question: question,
+                    chatHistory: chatHistory.map(entry => ({ role: entry.role, parts: entry.parts }))
+                };
+
+                // Make a POST request to your Node.js API endpoint
+                const response = await fetch(API_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(payload),
+                });
+
+                const data = await response.json();
+
+                if (response.ok) {
+                    addMessageToChat('Knightro', data.answer);
+                    // Add Knightro's response to history (ONLY role and parts)
+                    chatHistory.push({ role: 'model', parts: [{ text: data.answer }] });
+                    saveChatHistory(); // Save history after adding Knightro's message
+                } else {
+                    // Handle API errors
+                    console.error('API Error:', data.error);
+                    const errorMessage = data.error || 'Something went wrong.';
+                    const errorDetails = data.details || 'No additional details.';
+                    addMessageToChat('Knightro', `API Error: ${errorMessage}`, false, true); // Mark as error in UI
+                    showMessage(`API Error: ${errorMessage}. Details: ${errorDetails}`);
+                    // When storing an error for historical display, DO NOT add `isError: true` to chatHistory itself.
+                    // Just store the plain message in the expected Gemini format. The `addMessageToChat` handles display.
+                    chatHistory.push({ role: 'model', parts: [{ text: `API Error: ${errorMessage}` }] }); // Store error as regular message
+                    saveChatHistory();
+                    setInputError(true);
+                }
+            } catch (error) {
+                // Handle network or other unexpected errors
+                console.error('Fetch Error:', error);
+                const errorMessage = 'Network error. Could not connect to the server.';
+                addMessageToChat('Knightro', `${errorMessage}. Please check your connection.`, false, true); // Mark as error in UI
+                showMessage(`${errorMessage}. Is your Node.js server running? Details: ${error.message}`);
+                // When storing an error for historical display, DO NOT add `isError: true` to chatHistory itself.
+                // Just store the plain message in the expected Gemini format.
+                chatHistory.push({ role: 'model', parts: [{ text: errorMessage }] }); // Store error as regular message
+                saveChatHistory();
+                setInputError(true);
+            } finally {
+                hideTypingIndicator(); // Hide typing indicator
+                sendButton.disabled = false; // Re-enable button
+                sendButton.textContent = 'Send'; // Restore button text
+                questionInput.focus(); // Return focus to the input field
+            }
+        });
+
+        // Allow sending message with Enter key
+        questionInput.addEventListener('keypress', (event) => {
+            if (event.key === 'Enter') {
+                sendButton.click();
+            }
+        });
+
+        // Load chat history when the page loads
+        document.addEventListener('DOMContentLoaded', loadChatHistory);
+    </script>
+</body>
+
+</html>

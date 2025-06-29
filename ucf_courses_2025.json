@@ -1,0 +1,262 @@
+[
+  {
+    "code": "COP3502",
+    "title": "Computer Science I",
+    "description": "Introduction to algorithm design and problem\u2011solving techniques using a high\u2011level programming language.",
+    "credits": 3,
+    "prereqs": "MAC 2311C (Calculus I) with a C (2.0) or better.",
+    "coreqs": "",
+    "notes": "Computer Science, Computer Engineering, IT majors.",
+    "catalog_year": 2025
+  },
+  {
+    "code": "COP3503",
+    "title": "Computer Science II",
+    "description": "Advanced data structures and algorithms including linked lists, trees, graphs, sorting, and searching.",
+    "credits": 3,
+    "prereqs": "COP 3502 with a C (2.0) or better.",
+    "coreqs": "",
+    "notes": "Computer Science, Computer Engineering, IT majors.",
+    "catalog_year": 2025
+  },
+  {
+    "code": "PHY2048",
+    "title": "General Physics I",
+    "description": "Fundamental principles of mechanics, oscillations, and wave motion. Includes problem\u2011solving and conceptual understanding.",
+    "credits": 3,
+    "prereqs": "MAC 2311C (Calculus I) with a C (2.0) or better, or C.I.",
+    "coreqs": "PHY 2048L (1 credit) is a required co\u2011requisite.",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "PHY2049",
+    "title": "General Physics II",
+    "description": "Fundamental principles of electricity, magnetism, and optics. Includes problem\u2011solving and conceptual understanding.",
+    "credits": 3,
+    "prereqs": "PHY 2048 with a C (2.0) or better or C.I.",
+    "coreqs": "PHY 2049L (1 credit) is a required co\u2011requisite.",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "MAC2311C",
+    "title": "Calculus I",
+    "description": "Limits, derivatives, and integrals of functions of a single variable, and applications.",
+    "credits": 4,
+    "prereqs": "MAC 1140 (Precalculus Algebra) and MAC 1114 (Trigonometry) with a C (2.0) or better, or Math Placement Test score.",
+    "coreqs": "",
+    "notes": "Includes a lab component.",
+    "catalog_year": 2025
+  },
+  {
+    "code": "ENC1101",
+    "title": "Composition I",
+    "description": "Focuses on developing effective written communication skills, including argumentation, analysis, and research. Required for all undergraduate degrees.",
+    "credits": 3,
+    "prereqs": "Placement into ENC 1101 through SAT, ACT, PERT scores, or ENC 1100.",
+    "coreqs": "",
+    "notes": "Usually taken in the first year.",
+    "catalog_year": 2025
+  },
+  {
+    "code": "CHM2045",
+    "title": "Chemistry Fundamentals I",
+    "description": "Basic principles of chemistry including atomic structure, bonding, stoichiometry, and states of matter. Designed for science and engineering majors.",
+    "credits": 3,
+    "prereqs": "CHM 1025 or placement test, or high school chemistry with a good grade.",
+    "coreqs": "CHM 2045L (1 credit) is a required co\u2011requisite.",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "COP4331",
+    "title": "Processes for Object\u2011Oriented Software Development",
+    "description": "Placeholder description for Processes for Object\u2011Oriented Software Development.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "CDA3103",
+    "title": "Computer Logic & Organization",
+    "description": "Placeholder description for Computer Logic & Organization.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "CEN3031",
+    "title": "Software Engineering",
+    "description": "Placeholder description for Software Engineering.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "EEL4768",
+    "title": "Computer Architecture",
+    "description": "Placeholder description for Computer Architecture.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "STA2023",
+    "title": "Statistical Methods I",
+    "description": "Placeholder description for Statistical Methods I.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "ECO2013",
+    "title": "Macroeconomics",
+    "description": "Placeholder description for Macroeconomics.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "ECO2023",
+    "title": "Microeconomics",
+    "description": "Placeholder description for Microeconomics.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "GEB3006",
+    "title": "Career Development",
+    "description": "Placeholder description for Career Development.",
+    "credits": 1,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "MAR3023",
+    "title": "Marketing",
+    "description": "Placeholder description for Marketing.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "AMH2020",
+    "title": "U.S. History 1877\u2011Present",
+    "description": "Placeholder description for U.S. History 1877\u2011Present.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "LIT1000",
+    "title": "Introduction to Literature",
+    "description": "Placeholder description for Introduction to Literature.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "ARH2050",
+    "title": "History of Western Art I",
+    "description": "Placeholder description for History of Western Art I.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "ARH2051",
+    "title": "History of Western Art II",
+    "description": "Placeholder description for History of Western Art II.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "BSC2010",
+    "title": "Biology I",
+    "description": "Placeholder description for Biology I.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "BSC2011",
+    "title": "Biology II",
+    "description": "Placeholder description for Biology II.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "PSY2012",
+    "title": "General Psychology",
+    "description": "Placeholder description for General Psychology.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "SPC1608",
+    "title": "Fundamentals of Oral Communication",
+    "description": "Placeholder description for Fundamentals of Oral Communication.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "HIS4151",
+    "title": "Florida History",
+    "description": "Placeholder description for Florida History.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  },
+  {
+    "code": "CLP3143",
+    "title": "Abnormal Psychology",
+    "description": "Placeholder description for Abnormal Psychology.",
+    "credits": 3,
+    "prereqs": "",
+    "coreqs": "",
+    "notes": "",
+    "catalog_year": 2025
+  }
+]

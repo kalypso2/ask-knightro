@@ -1,0 +1,3654 @@
+ACG2021 - Principles of Financial Accounting
+ACG2071 - Principles of Managerial Accounting
+ACG3131 - Intermediate Financial Accounting I
+ACG3141 - Intermediate Financial Accounting II
+ACG3173 - Accounting for Decision-Makers
+ACG3361 - Cost Accounting I
+ACG3501 - Financial Accounting for Governmental and Nonprofit Organizations
+ACG4401 - Accounting Information Systems
+ACG4651 - Auditing
+ACG4671 - Internal Auditing
+ACG4803 - Advanced Issues in Financial Accounting
+ACG4840 - Accounting Analytics
+ADE4382 - Teaching Adult Learners in Technical Programs
+ADV3001 - Advertising Strategy
+ADV3008 - Principles of Advertising
+ADV4101 - Advertising Copywriting
+ADV4103 - Radio-Television Advertising
+ADV4300 - Advertising Media Planning
+ADV4903 - Honors Directed Reading I
+ADV4906 - Independent Study
+ADV4912 - Research
+ADV4941 - Internship
+ADV4970 - Honors Undergrad Thesis
+AFA3006 - The African Diaspora: Theories and Movements
+AFA3102 - Introduction to Africana Studies: A Multidisciplinary Approach
+AFA3104 - The Black Intellectual Experience
+AFA3300 - African-American and Caribbean Music
+AFA3371 - Evolution of Hip Hop
+AFA3371 - Honors Evolution of Hip Hop
+AFA3850 - Researching Africana Heritage and Life
+AFA3955 - Study Abroad in the Caribbean
+AFA4105 - Documenting Africana Heritage and Life
+AFA4242 - Contemporary Issues in Africana Studies
+AFH3100 - African History to 1870
+AFH3200 - African History Since 1870
+AFH3458 - History of South Africa 1652-present
+AFR1101 - Heritage and Values of the United States Air Force I
+AFR1111 - Heritage and Values of the United States Air Force II
+AFR2130 - Team and Leadership Fundamentals I
+AFR2131 - Team and Leadership Fundamentals II
+AFR3220 - Leading People and Effective Communication I
+AFR3230 - Leading People and Effective Communication II
+AFR4201 - National Security Affairs and Prep for Active Duty I
+AFR4210 - National Security Affairs/Preparation for Active Duty II
+AMH1070 - Florida: People, Places, and History
+AMH2010 - U.S. History: 1492-1877
+AMH2010 - Honors U.S. History: 1492-1877
+AMH2020 - U.S. History: 1877-Present
+AMH2020 - Honors U.S. History: 1877-Present
+AMH3370 - Capitalism & Democracy in US History
+AMH3402 - History of the South to 1865
+AMH3403 - History of the South Since 1865
+AMH3422 - Frontier Florida
+AMH3425 - Sunbelt Florida
+AMH3441 - History of the Frontier: Eastern America
+AMH3442 - History of the Frontier: Western America
+AMH3483 - History of Florida Indians
+AMH3541 - U. S. Military History To 1900
+AMH3547 - U.S. Military History Since 1900
+AMH3558 - History of American Law
+AMH3560 - Women, Law, and Society in American History
+AMH3561 - Women in American History I
+AMH3562 - Women in American History II
+AMH3571 - Black American History I
+AMH3572 - Black American History II
+AMH3580 - North American Indians
+AMH3586 - History of Latinos in the U.S.
+AMH3611 - Sport in America Since 1945
+AMH3710 - Canadian History
+AMH4110 - Colonial America, 1607-1763
+AMH4130 - The Age of the American Revolution, 1763-1789
+AMH4140 - Jeffersonian America
+AMH4160 - Jacksonian America
+AMH4170 - Civil War and Reconstruction
+AMH4174 - Emancipation and Reconstruction
+AMH4201 - The Gilded Age and Progressivism
+AMH4231 - United States History: 1914-1939
+AMH4270 - United States History: 1939-1960
+AMH4273 - U. S. History Since 1960
+AMH4311 - American Culture I
+AMH4344 - American Car Culture
+AMH4345 - History of American Tourism
+AMH4375 - Technology and US Culture
+AMH4376 - U.S. Space History
+AMH4407 - Jim Crow America
+AMH4510 - Rise of the United States to World Power, 1776-1914
+AMH4512 - US Foreign Relations from the Founding Era to World War II
+AMH4513 - US Foreign Relations: Close of World War II to the Present
+AMH4573 - Black Militancy in the 20th Century
+AMH4575 - History of the Civil Rights Movement
+AMH4594 - Laser Scanning America's Past
+AMH4594H - Honors Laser Scanning America's Past
+AMH4644 - Viewing American History in the Twentieth Century
+AMH4650 - History of U.S. Aviation
+AMH4680 - Women in American Science
+AML3031 - American Literature I
+AML3041 - American Literature II
+AML3076 - Topics in American Literature
+AML3261 - Literature of the South
+AML3273 - Beat Literature and Other Mid-Century Writers
+AML3283 - Contemporary American Women's Fiction
+AML3286 - Early American Women's Words
+AML3605 - African American Literature I
+AML3613 - Narratives of Slavery
+AML3614 - Topics in African-American Literature
+AML3615 - Harlem, Haiti, and Havana
+AML3630 - Latinx Literature
+AML3632 - Puerto Rican Literature 
+AML3640 - Native American Literature
+AML3643 - Contemporary Native American Prose and Poetry
+AML3682 - Ethnic Literature in America
+AML3682 - Honors Ethnic Literature in America
+AML4101 - American Novel
+AML4155 - Modern American Poetry
+AML4265 - Florida Writers
+AML4300 - Major American Authors
+AML4321 - Modern American Literature
+ANT2000 - General Anthropology
+ANT2000 - Honors General Anthropology
+ANT2140 - Introduction to Archaeology
+ANT2410 - Cultural Anthropology: Global Perspectives, Local Contexts
+ANT2511 - The Human Species
+ANT2511 - Honors The Human Species
+ANT3010 - Digging Up Disney:  An Archaeology of Walt Disney World, FL
+ANT3011 - The Anthropology of American Television
+ANT3016 - Fantastic Archaeology and Pseudoscience
+ANT3017 - Muggle Studies: The Anthropology of Harry Potter
+ANT3026 - Mummies, Zombies, and Vampires: Anthropology of the Undead
+ANT3052 - Disaster Anthropology
+ANT3082 - New Frontiers: Anthropology of Space
+ANT3106 - Archaeology and Popular Culture
+ANT3107 - Blood and Valor in the Viking World
+ANT3145 - Archaeology of Complex Societies
+ANT3148 - Life and Death in Ancient Egypt
+ANT3152 - Archaeology of the Greater Southwest
+ANT3154 - Historical Archaeology
+ANT3157 - First Peoples of the Caribbean
+ANT3158 - Florida Archaeology
+ANT3160 - Americas Before Columbus
+ANT3161 - Ancient Mexico: Aztec to Zapotec
+ANT3163 - Mesoamerican Archaeology
+ANT3164 - Ancient Incas
+ANT3169 - Life and Death in the Ancient Andes
+ANT3173 - Archaeology of Sex
+ANT3174 - Battlefield Archaeology
+ANT3176 - African Archaeology and Prehistory
+ANT3177 - Archaeology of Caribbean Piracy
+ANT3179 - Australian Archaeology and Indigenous Cultures
+ANT3212 - Peoples of the World
+ANT3241 - Magic, Ritual, and Belief
+ANT3245 - Native American Religions
+ANT3246 - Religion in Ancient Societies
+ANT3275 - Anthropological Perspectives on Refugees
+ANT3290 - Anthropology of Plants and People
+ANT3302 - Sex, Gender and Culture
+ANT3311 - Indians of the Southeastern United States
+ANT3312 - Ethnology of North American Indians
+ANT3330 - Anthropology of the Amazon
+ANT3362 - Peoples of Southeast Asia
+ANT3424 - Partying in the Ancient World: Food and Feasting
+ANT3451 - Race Matters: Anthropological Approaches to Racism
+ANT3524 - Introduction to Human Osteology
+ANT3538 - Ancient Plagues: Archaeological and Skeletal Evidence of Infectious Disease
+ANT3541 - Biobehavioral Anthropology
+ANT3550 - Primatology
+ANT3610 - Language and Culture
+ANT3701 - Engagement & Social Change: Public Anthropology
+ANT3930 - First Peoples of the Caribbean
+ANT3943 - Caribbean Archaeology Practicum
+ANT4013 - Anthropology of Fast Food
+ANT4027 - Mummies, Life After Death
+ANT4034 - History of Anthropological Thought
+ANT4051 - Environmental Anthropology
+ANT4081 - Science, Technology, and Culture
+ANT4104 - Archaeology of the Future
+ANT4105 - Saving the Plundered Past: Ethics and Controversy in Contemporary Archaeology
+ANT4108 - Empire of Remains: Bioarchaeology of Ancient Rome
+ANT4115 - Archaeological Method and Theory
+ANT4123 - Archaeology of Coastal Societies
+ANT4153 - North American Archaeology
+ANT4165 - Archaeology of Pre-Columbian South America
+ANT4168 - Maya Archaeology
+ANT4170 - Household Archaeology: The Archaeology of Everyday Life
+ANT4171 - Battle of the Sexes?: The Archaeology of Gender
+ANT4178 - Archaeology of African American Life
+ANT4183 - Archaeological Sciences
+ANT4184 - Mortuary Archaeology
+ANT4187 - Paleoethnobotany
+ANT4189 - Lithic Analysis: Archaeology of Stone Tools
+ANT4190 - Professional Archaeology
+ANT4195 - A Pot for All Seasons: Archaeological Ceramic Analysis
+ANT4196 - Animal Bone Archaeology: Introduction to Zooarchaeology
+ANT4197 - Death Becomes Us: Anthropology of Death and Burial
+ANT4232 - Anthropology and Folklore Studies
+ANT4332 - Latin America: Social Justice Futures
+ANT4340 - Caribbean Afterlives
+ANT4352 - African Societies and Cultures
+ANT4405 - The Anthropology of Sport
+ANT4406 - Pain and Suffering: The Anthropology of Violence
+ANT4408 - Culture, Disease, and Healing
+ANT4441 - Anthropology of Cities
+ANT4462 - Medical Anthropology
+ANT4466 - Anthropology of Disability
+ANT4467 - Nutritional Anthropology
+ANT4480 - Global Health in Anthropological Perspective
+ANT4481 - Anthropology of Drugs and Addiction
+ANT4482 - Anthropology of Mental Health
+ANT4483 - Health and Healing in the Ancient World: An Anthropological Perspective
+ANT4486 - Anthropology of the Body
+ANT4487 - Abolition Medicine Futures
+ANT4516 - Human Biological Diversity
+ANT4521 - Forensic Anthropology
+ANT4525 - Human Osteology
+ANT4535 - Scientific Prejudice and Anthropology
+ANT4560 - Birth to Death: Anthropological Perspectives on Human Growth
+ANT4586 - Human Origins
+ANT4591 - Quantitative Methods in Biological Anthropology
+ANT4702 - Culture, Inequality and Global Development
+ANT4802 - Ethnographic Research and Field Methods
+ANT4824 - Archaeological Field Study
+ANT4851 - Digital Methods in Anthropology
+ANT4852 - GIS Methods in Anthropology
+ANT4854 - Advanced GIS Methods in Anthropology
+ANT4861 - Beyond the Anthropology Major: Careers Applying Anthropology
+ANT4933 - Landscape Archaeology
+ANT4954 - Geospatial and Archaeological Field School at Kerkenes
+ANT4956 - Geophysical Field School at Kerkenes
+APK2003 - Careers and Professional Development in Kinesiology
+APK2160 - Facts and Fallacies in Exercise and Nutrition
+APK2300 - Injury Management and Emergency Care
+APK3132 - Triathlon Training and Performance
+APK3174 - Personal Training Methods
+APK3200 - Motor Development and Learning
+APK3321 - Exercise is Medicine
+APK3400 - Sports Psychology
+APK3402 - Motivational Aspects of Human Performance
+APK3614 - Tactical Strength and Conditioning
+APK4103 - Kinetic Anatomy
+APK4112 - Exercise Physiology I
+APK4113 - Strength and Conditioning I
+APK4114 - Strength and Conditioning II
+APK4119 - Exercise Prescription for Special Populations
+APK4125 - Assessment and Evaluation in Kinesiology
+APK4134 - Exercise Physiology II
+APK4163 - Sport Nutrition and Exercise Metabolism
+APK4175 - Body Composition and Weight Management
+APK4203 - Essentials of Sports Science
+APK4220 - Applied Biomechanics
+APK4903 - Basic Research Methods in Kinesiology
+APK4926 - Undergraduate Internship in Kinesiology
+APK4950 - Capstone in Kinesiology
+ARA1120 - Elementary Arabic Language and Civilization I
+ARA1120 - Honors Elementary Arabic Language and Civilization I
+ARA1121 - Elementary Arabic Language and Civilization II
+ARA1121 - Honors Elementary Arabic Language and Civilization II
+ARA2200 - Intermediate Arabic Language and Civilization I
+ARA2201 - Intermediate Arabic II
+ARC3181 - Advanced Topics in Digital Architecture
+ARC3310 - Parametric Modeling and Digital Fabrication
+ARC3320 - Architectural Design 5
+ARC3321 - Architectural Design 6
+ARC3463 - Materials and Methods of Construction 2
+ARC3503 - Architectural Structures
+ARC3610 - Environmental Technology 1
+ARC3743 - Architectural History 3
+ARC4220 - Architectural Theory 2
+ARC4322 - Architectural Design 7
+ARC4323 - Architectural Design 8
+ARC4382 - Placemaking: Designing Better Communities
+ARC4620 - Environmental Technology 2
+ARC4694 - In the Space of Health and Wellness
+ARE2000 - Early Childhood Art and Creativity
+ARE3944 - Community Arts Practicum
+ARE4250 - Art for Exceptionalities
+ARE4260 - Methods in Art Administration
+ARE4351 - Teaching Art in the Elementary School
+ARE4352 - Teaching Art in the Secondary School
+ARE4356 - Teaching Art Appreciation & Criticism in the Classroom
+ARE4453 - Studio Experiences in Art Education
+ARH2050 - History of Western Art I
+ARH2050 - Honors History of Western Art I
+ARH2051 - History of Western Art II
+ARH2051 - Honors History of Western Art II
+ARH2500 - History of Non-Western Art
+ARH3471 - Art in the Last 25 Years
+ARH3610 - American Art
+ARH3631 - African-American Art
+ARH3670 - 20th Century Latin American Art
+ARH3674 - Latin American Popular Culture
+ARH3683 - Southern Folk Arts
+ARH3710 - History of Photography I
+ARH3713 - 20th Century Photographic History
+ARH3720 - History of Prints
+ARH3728 - History of Illustration
+ARH3820 - Visual Arts Administration Vitas
+ARH3842 - Art History Abroad: Italy
+ARH3880 - History of Immersive Experience
+ARH3888 - Art of Walt Disney
+ARH4130 - Greek Art and Architecture
+ARH4150 - Roman Art and Architecture
+ARH4200 - Medieval Art
+ARH4310 - Italian Renaissance Art
+ARH4316 - Great Masters: daVinci, Michelangelo, and Raphael
+ARH4350 - Baroque Art
+ARH4352 - Italian Baroque Art
+ARH4430 - 19th Century Art
+ARH4450 - 20th Century Art
+ARH4653 - Meso American Art
+ARH4800 - Theory and Criticism of the Visual Arts
+ARH4871 - Women in Art
+ART2201C - Design Fundamentals-Two Dimensional
+ART2203C - Design Fundamentals-Three Dimensional
+ART2300C - Drawing Fundamentals I
+ART2301C - Drawing Fundamentals II
+ART2400C - Beginning Printmaking
+ART2500C - Beginning Painting
+ART2701C - Beginning Sculpture
+ART2754 - Beginning Ceramics
+ART2823 - Art as Interface
+ART3026 - Procedural Animation
+ART3161 - Mixed Media
+ART3170C - Book Binding
+ART3171 - Materials for Artist Books
+ART3175C - Advanced Issues in Contemporary Book Arts
+ART3176C - The Illuminated Book
+ART3223C - Applied Design Lab
+ART3223H - Honors Applied Design Lab
+ART3321 - Drawing Intensive
+ART3332C - Intermediate Drawing
+ART3403C - Intermediate Printmaking
+ART3433C - Screen Printing
+ART3504C - Intermediate Painting
+ART3561 - Experimental Painting
+ART3562 - Observational Painting
+ART3643 - Digital Effects & Compositing
+ART3666 - Pre-Production Design
+ART3709- Intermediate Sculpture
+ART3713 - Figure Sculpture
+ART3734 - Metal Sculpture
+ART3737 - Narrative Sculpture
+ART3738 - Mold Making and Casting
+ART3761C - Intermediate Ceramics
+ART3764C - Ceramic Handbuilding I
+ART3768C - Clay Sculpture
+ART3824 - Japanese Manga & Anime
+ART3833C - Processes and Ideas in Art
+ART3846 - Creative Placemaking
+ART3857 -  Professional Practices
+ART3950 - Studio Art Portfolio
+ART3951C - Design Intensive
+ART3952 - Animation & Visualization Portfolio
+ART4027C - Stop Motion Animation
+ART4173C - Advanced Artist Book
+ART4174C - The Printed Book
+ART4177C - Commercial Book Design and Publishing
+ART4320C - Advanced Drawing
+ART4402C - Advanced Printmaking
+ART4505C - Advanced Painting
+ART4644C - Books Without Books
+ART4710C - Advanced Sculpture
+ART4765C - Ceramic Handbuilding II
+ART4780C - Kiln Design and Building
+ART4783C - Advanced Ceramics
+ART4786C - Ceramic Raw Material
+ART4859C - Art BA Capstone
+ART4935 - BFA Exhibit/Seminar
+ART4945C - Advanced Design Lab
+ART4954 - Scotland Study Abroad
+ART4971 - Animation Thesis Exhibition
+ASH3200 - Ancient Near Eastern Societies
+ASH3204 - History of Mesopotamia
+ASH3222 - Islam and Its Empires
+ASH3223 - The Modern Middle East
+ASH3244 - History of the Kurds in the Middle East
+ASH3302 - History of Modern East Asia
+ASH3384 - Women and Gender in South Asia
+ASH3622 - Islam in South Asia
+ASH4233 - Ottoman Empire
+ASH4243 - History of Iraq
+ASH4304 - Women in China
+ASH4324 - History & Culture of South Asia
+ASH4383 - Imperialism & Decolonization in South Asia
+ASH4402 - History of Chinese Civilization
+ASH4404 - Modern China
+ASH4441 - Japanese Civilization
+ASH4442 - Modern Japan
+ASH4452 - History of Gender & Sexuality in Japan
+ASH4550 - History of Modern India
+ASL2140 - Introduction to American Sign Language
+ASL2150 - Intermediate American Sign Language
+ASL2510 - Issues of Deafness
+ASL4161C - American Sign Language III
+ASL4201 - American Sign Language IV
+AST2002 - Astronomy
+AST2002K - Honors Astronomy
+AST2002L - Astronomy Lab
+AST2037 - Life in the Universe
+AST3043 - Practice of Historical Astronomy
+AST3110 - Solar System Astronomy
+AST3114 - Space Weather in the Solar System
+AST3211 - Stellar Astrophysics
+AST3402 - Galaxies and Cosmology
+AST4142 - Asteroids, Comets, and Meteorites
+AST4152 - Planetary Geophysics
+AST4700 - Experimental Methods in Astronomy
+AST4762C - Astronomical Data Analysis
+ATR2010C - Athletic Injuries: Mechanisms and Prevention
+ATR3012C - Clinical Skills for Athletic Trainers I
+ATR3013C - Clinical Skills for Athletic Training II
+ATR3102 - Principles of Athletic Training
+ATR3203C - Upper Extremity Function and Measurement
+ATR3204C - Lower Extremity Function and Measurement
+ATR3212C - Recognition and Evaluation of Athletic Injuries I
+ATR3312C - Injury, Management, and Rehabilitation
+ATR3812L - Practicum in Athletic Training I
+ATR3822L - Practicum in Athletic Training II
+ATR4014C - Principles of Athletic Training Lab
+ATR4103 - Case Studies in Sports Medicine:
+ATR4112L - Acute Care in Athletic Training
+ATR4132 - Human Injuries: Mechanisms & Prevention
+ATR4213C - Recognition and Evaluation of Athletic Injuries II
+ATR4302C - Therapeutic Modalities in Athletic Training
+ATR4313C - Therapeutic Exercise in Athletic Training
+ATR4315C - Advanced Rehabilitation in Athletic Training
+ATR4512C - Organization and Administration of Athletic Training
+ATR4832L - Practicum in Athletic Training III
+ATR4842L - Practicum in Athletic Training IV
+ATR4933 - Athletic Training Seminar
+ATR4940 - Athletic Training Elective Internship
+BCH4024 - Medical Biochemistry
+BCH4053 - Biochemistry I
+BCH4053H - Honors Biochemistry I
+BCH4054 - Biochemistry II
+BCH4103L - Biochemical Methods
+BME3211 - Engineering Biomechanics
+BME3891 - Fundamentals of Rehabilitation Engineering
+BME4941 - Biomedical Engineering Internship
+BOT3015 - Principles of Plant Science
+BOT3018C - Culinary Botany Across the Cultures
+BOT3802 - Ethnobotany
+BOT4223C - Plant Anatomy
+BOT4282C - Plant Microtechniques
+BOT4303C - Plant Kingdom
+BOT4430C - Biology of Fungi
+BOT4434C - General Mycology
+BOT4503C - Plant Physiology
+BOT4530C - Plant Genomics and Biochemistry
+BOT4713C - Plant Taxonomy
+BOT4850 - Medical Botany
+BOT4912 - Directed Independent Research
+BOT4922 - Plant Science Capstone
+BOT4941 - Internship
+BOT4970H - Honors Undergraduate Thesis I
+BSC1005 - Biological Principles
+BSC1005L - Biological Principles Laboratory
+BSC2010C - Biology I
+BSC2010K - Honors General Biology
+BSC2011C - Biology II
+BSC3052 - Conservation Biology
+BSC3312 - Principles of Marine Biology
+BSC3402C - Integrative Biology
+BSC3403C - Quantitative Biological Methods
+BSC3403K - Honors Quantitative Biological Methods
+BSC3424 - Nanobiotechnology
+BSC3453C - Biological Research Methods and Experimental Design
+BSC3843L - Strategies for Biology Academic Mentoring
+BSC3945 - Learning Assistants in Biology
+BSC4310 - Service-Learning: Marine Conservation and Restoration
+BSC4312C - Advanced Marine Biology
+BSC4330 - Invasion Biology
+BSC4422L - Biology Laboratory Techniques
+BSC4434 - Biomedical Informatics: Sequence Analysis
+BSC4439 - Biomedical Informatics: Structure Analysis
+BSC4445C - Genomics Laboratory
+BSC4456C - Programming for Biologists
+BSC4473C - Scientific Diving
+BSC4821 - Biogeography
+BSC4861L - Urban Ecological Field Studies
+BSC4910C - Group Effort Applied Research in Biology
+BSC4927 - Scientific and Public Engagement for Biology Majors
+BSC4937 - Instructional Experiences in Undergraduate Biology
+BTE4410 - Course Construction in Business Education
+BUL3130 - Legal and Ethical Environment of Business
+BUL3130H - Honors Legal & Ethical Environment of Business:
+CAI4823 - Artificial Intelligence for  Industrial Engineers
+CAP3104 - Foundations of HCI
+CAP4053 - AI for Game Programming
+CAP4102 - Web and User Experience (UX)
+CAP4145 - Introduction to Malware Analysis
+CAP4314 - Social Network Analysis
+CAP4453 - Robot Vision
+CAP4543 - Introduction to Bioinformatics Algorithms
+CAP4611 - Algorithms for Machine Learning
+CAP4630 - Artificial Intelligence
+CAP4641 - Natural Language Processing
+CAP4720 - Computer Graphics
+CAP4932 - Introduction to Bioinformatics Algorithms
+CCE4003 - Introduction to the Construction Industry
+CCE4004 - Construction Methods
+CCE4034 - Construction Estimating and Scheduling
+CCE4402 - Construction Equipment and Productivity
+CCE4810C - Construction Design Project
+CCE4813 - Mechanical and Electrical Systems for Buildings:
+CCJ3007 - Origins of Criminal Justice
+CCJ3014 - Crime in America
+CCJ3024 - Criminal Justice System
+CCJ3450 - Criminal Justice Management and Liability Issues
+CCJ3604 - Mental Illness, Crime and Criminal Justice
+CCJ3667 - Victims and the CJ System
+CCJ3930 - Origins of Criminal Justice Practices and Policies
+CCJ4035 - Crime and the Media
+CCJ4054 - Capstone: Criminal Justice Ethics
+CCJ4062 - Hate Crimes and Criminal Justice Responses
+CCJ4064 - Criminal Justice Dimensions of Genocide
+CCJ4076 - Crime Intelligence and Investigative Support Analysis
+CCJ4129 - Cultural Diversity in Criminal Justice
+CCJ4195 - Interviews & Interrogations in CJ
+CCJ4296 - Famous Crimes & Trials
+CCJ4334 - Punishment and Torture
+CCJ4361 - Death Penalty
+CCJ4611 - Ritualistic Crime and Investigations
+CCJ4632 - Older Adults and the Criminal Justice System
+CCJ4633 - Guns, Crime, and American Culture
+CCJ4641 - Organized Crime
+CCJ4644 - White Collar Crime
+CCJ4651 - Drugs and Crime
+CCJ4670 - Women and Crime
+CCJ4678 - Race, Ethnicity, Equity, and (In)justice
+CCJ4681 - Domestic Violence and the Justice System
+CCJ4690 - Sex Offenders and the Criminal Justice System
+CCJ4694 - Human Trafficking and Criminal Justice
+CCJ4701 - Research Methods in Criminal Justice
+CCJ4746 - Data Analysis for Criminal Justice
+CCJ4934 - Emergent Criminal Justice Issues
+CDA3103C - Computer Logic and Organization
+CEG4011C - Geotechnical Engineering I
+CEG4012 - Geotechnical Engineering II
+CEG4203 - Geotechnical Methods and Case Histories
+CEG4801C - Geotechnical Engineering Design
+CES4100C - Structural Analysis I and Lab
+CES4205 - Structural Mechanics
+CES4605 - Steel Structures
+CES4702 - Reinforced Concrete Structures
+CES4743C - Structural Design
+CGN3090 - Engineering Reports & Liability
+CGN3405 - Applied Numerical Methods for Civil Engineering
+CGN3501C - Civil Engineering Materials
+CGN3700C - Civil Engineering Measurements
+CGN4309 - Introduction to Smart Cities
+CGN4808C - CECE Capstone Design
+CGS1060C - Introduction to Computers
+CGS2100C - Computer Fundamentals for Business
+CGS2545C - Database Concepts
+CGS3175 - Internet Applications
+CGS3269 - Computer Architecture Concepts
+CGS3763 - Operating System Concepts
+CHI1120C - Elementary Chinese Language and Civilization I
+CHI1121C - Elementary Chinese Language and Civilization II
+CHI2200 - Intermediate Chinese I
+CHI2201 - Intermediate Chinese II
+CHM1020 - Concepts in Chemistry
+CHM1025 - Introduction to Chemistry
+CHM1032 - General Chemistry
+CHM1032L - General Chemistry Laboratory
+CHM2040 - Chemistry Fundamentals IA
+CHM2041 - Chemistry Fundamentals IB
+CHM2045C - Chemistry Fundamentals I
+CHM2045K - Honors Chemistry Fundamentals I
+CHM2046 - Chemistry Fundamentals II
+CHM2046H - Honors Chemistry Fundamentals II
+CHM2046L - Chemistry Fundamentals Laboratory
+CHM2205 - Introduction to Organic and Biochemistry
+CHM2210 - Organic Chemistry I
+CHM2210H - Honors Organic Chemistry I
+CHM2211 - Organic Chemistry II
+CHM2211H - Honors Organic Chemistry II
+CHM2211L - Organic Laboratory Techniques I
+CHM3120 - Analytical Chemistry
+CHM3120L - Analytical Chemistry Laboratory
+CHM3215L - Organic Laboratory Techniques II
+CHM3410 - Physical Chemistry I
+CHM3411 - Physical Chemistry II
+CHM3411L - Physical Chemistry Laboratory
+CHM3422 - Applied Physical Chemistry
+CHM4130 - Advanced Analytical Laboratory Technique
+CHM4130L - Advanced Analytical Chemistry Laboratory
+CHM4220 - Organic Chemistry III
+CHM4223 - Advanced Organic Chemistry
+CHM4230 - Applied Molecular Spectroscopy
+CHM4309 - Bioconjugate Chemistry
+CHM4427 - Electrochemistry
+CHM4455 - Polymer Chemistry
+CHM4610 - Inorganic Chemistry
+CHM4610L - Inorganic Chemistry Laboratory
+CHM4671 - Bioinorganic Chemistry
+CHM4780 - Green and Sustainable Chemistry
+CHM4906 - Directed Independent Study
+CHM4912 - Directed Independent Research
+CHM4930 - Chemistry Seminar
+CHM4942 - Instructional Experiences in Undergraduate Chemistry
+CHS1440C - Principles of Chemistry
+CHS3501 - Introduction to Forensic Science
+CHS3505C - Forensic Microscopy
+CHS3511C - Trace Evidence
+CHS3530C - Forensic Analysis of Controlled Substances
+CHS3533 - Forensic Biochemistry I
+CHS3533L - Forensic Biochemistry I Laboratory
+CHS3595 - Forensic Science in the Courtroom
+CHS4100 - Radiochemistry
+CHS4506C - Forensic Investigation Technology
+CHS4515C - Forensic Crime Scene Investigation
+CHS4534C - Forensic Biochemistry II
+CHS4537 - Forensic Laboratory Quality Assurance and Professional Practice
+CHS4591 - Forensic Science Internship
+CHS4615 - Environmental Chemistry
+CIS3003 - Fundamentals of Information Technology
+CIS3360 - Security in Computing
+CIS3362 - Cryptography and Information Security
+CIS3921 - Careers in IT
+CIS3990 - IT Career and Academic Advising I
+CIS4004 - Web-Based Information Technology
+CIS4203C - Digital Forensics
+CIS4340 - Data Management Technology
+CIS4361 - Secure Operating Systems and Administration
+CIS4364 - Cyber Defense Analysis
+CIS4524 - Managing IT Integration
+CIS4615 - Secure Software Development and Assurance
+CIS4940C - Topics in Cybersecurity
+CIS4991 - IT Career and Academic Advising II
+CJC3010 - Corrections and Penology
+CJC3134 - Prisons and jails
+CJC3164 - Community-Based Corrections
+CJE3001 - Careers in Criminal Justice
+CJE3444 - Crime, Place, and Prevention
+CJE3662 - CJ Information Technology and Data Management
+CJE4012 - Criminal Profiling in Criminal Justice
+CJE4014 - Police and Society
+CJE4174 - Comparative Justice Systems
+CJE4352 - Policy Development in Law Enforcement
+CJE4410 - Community Policing
+CJE4572 - Justice Agency Operations
+CJE4610 - Criminal Investigation
+CJE4630 - Serial Murder and Criminal Justice
+CJE4654 - Crime and Place
+CJE4663 - Crime Mapping and Pattern Analysis
+CJE4694 - Cybercrime and the Criminal Justice System
+CJJ4564 - Juvenile Justice System
+CJL3510 - Prosecution and Adjudication
+CJL4514 - Criminal Sentencing
+CJT3803 - Security Management
+CJT4843 - Risk Management in Criminal Justice/Private Security
+CLP3004 - Behavioral Self Control
+CLP3143 - Psychopathology
+CLP3143H - Honors Psychopathology
+CLP3184 - Women's Mental Health
+CLP3302 - Clinical Psychology
+CLP3413 - Contemporary Behavior Therapy
+CLP3467 - Interpersonal Effectiveness and Group Psychotherapy
+CLP4114 - Feeding and Eating Disorders
+CLP4134 - Childhood Psychopathology
+CLP4314 - Health Psychology
+CLP4390 - Forensic Psychology
+CLT3370 - Classical Mythology
+CLT3378 - Comparative Mythology
+CNT3004 - Computer Network Concepts
+CNT4403 - Network Security and Privacy
+CNT4425C - Cloud Computing Management
+CNT4603 - System Administration and Maintenance
+CNT4703C - Design and Implementation of Computer Communication Networks
+CNT4704 - Analysis of Computer Communication Networks
+CNT4714 - Enterprise Computing
+CNT4932 - Wireless Communication and Networking
+COM1000 - Introduction to Communication
+COM3003 - Exploring Human Communication
+COM3311 - Communication Research Methods
+COM3330 - Computer Mediated Communication
+COM3402 - Communication Theory
+COM3800 - Conflict Communication Research Methods
+COM3801 - Relational Conflict Communication
+COM3802 - Principles of Communication & Conflict
+COM3912 - Collaborative Experiential Research Practicum
+COM4013 - Communication and the Family
+COM4014 - Gender Issues in Communication
+COM4022 - Principles of Health Communication
+COM4026 - Current Issues in Communication
+COM4110 - Business and Professional Communication
+COM4120 - Organizational Communication
+COM4221 - Health Literacy
+COM4332 - Communication, Technology, and Change
+COM4416 - Terrorism and Communication
+COM4416H - Honors Terrorism and Communication
+COM4461 - Intercultural Communication
+COM4462 - Conflict Management
+COM4550 - Public Communication Campaigns
+COM4563 - Principles of Social Innovation and Activism
+COM4803 - Third Party Processes & Intervention
+COM4804 - Communication in Cultural Conflict Context
+COM4805 - Transformative Communication
+COM4806 - Communication & Conflict Case Studies
+COM4834H - Honors Intercultural Communication
+COM4903H - Honors Directed Reading I
+COM4906 - Independent Study
+COM4912 - Research
+COM4934 - Topics in Intercultural Communication
+COM4941 - Internship
+COM4945 - Domestic Practicum
+COM4949 - Cooperative Education in Communications
+COM4970H - Honors Undergrad Thesis
+COP2500C - Concepts in Computer Science
+COP3223C - Introduction to Programming with C
+COP3223K - Honors Introduction to Programming with C
+COP3330 - Object Oriented Programming
+COP3402 - Systems Software
+COP3502C - Computer Science I
+COP3502K - Honors Computer Science I
+COP3503C - Computer Science II
+COP3503K - Honors Computer Science II
+COP4020 - Programming Languages I
+COP4283 - Data Science Programming
+COP4331C - Processes for Object-Oriented Software Development
+COP4516C - Problem Solving Techniques and Team Dynamics
+COP4520 - Concepts of Parallel and Distributed Processing
+COP4600 - Operating Systems
+COP4710 - Database Systems
+COP4910 - Frontiers in Information Technology
+COP4934 - Senior Design I
+COP4935 - Senior Design II
+COT3100C - Introduction to Discrete Structures
+COT3100K - Honors Introduction to Discrete Structures
+COT3930H - Mathematical Modeling and Scientific Computing
+COT3960 - Foundation Exam
+COT4210 - Discrete Structures II
+COT4500 - Numerical Calculus
+CPO3034 - Politics of Developing Areas
+CPO3057 - Contemporary Revolution and Political Violence
+CPO3103 - Comparative Politics
+CPO3104 - Politics of Western Europe
+CPO3132 - Canadian Politics
+CPO3403 - Politics of the Middle East
+CPO3403H - Honors Politics of the Middle East
+CPO3614 - Politics of Eastern Europe
+CPO4062 - Comparative Judicial Process
+CPO4074 - Political Economy
+CPO4101 - Politics of the European Union
+CPO4123 - Government and Politics of Great Britain
+CPO4303 - Comparative Latin American Politics
+CPO4400 - Kurdish Politics: Identity, Violence, and Democracy
+CPO4406 - Minorities and Majorities in the Middle East
+CPO4514 - Politics of East Asia
+CPO4541 - Chinese Politics
+CPO4553 - Politics of Japan
+CPO4643 - Government and Politics of Russia
+CPO4710 - Women in Comparative Politics
+CPO4731 - Politics of Democratization
+CPO4754 - Comparative Political Institutions
+CPO4784 - Political and Economic Inequality in Comparative Perspective
+CPO4794 - Indigenous Politics and the Environment
+CRW3010H - Honors Creative Writing
+CRW3011 - Creative Writing for Non-Majors
+CRW3013 - Creative Writing for English Majors
+CRW3053 - Theory & Practice of Creative Writing
+CRW3120 - Fiction Writing Workshop I
+CRW3211 - Creative Nonfiction Workshop I
+CRW3310 - Poetry Writing Workshop I
+CRW3311 - Readings in Poetry for Creative Writing
+CRW3540 - Literary Magazines
+CRW3610 - Scriptwriting Workshop I
+CRW3713 - Writing for Video Games
+CRW3950 - Cypress Dome Editorship
+CRW4114 - History of Prose Style
+CRW4122 - Fiction Writing Workshop II
+CRW4123 - Science Fiction Writing
+CRW4125 - Worldbuilding
+CRW4224 - Creative Nonfiction Workshop II
+CRW4320 - Poetry Writing Workshop II
+CRW4616 - Scriptwriting Workshop II
+CRW4722 - Editing for Creative Writers
+CRW4724 - The Florida Review
+CRW4760 - Digital Storytelling for Creative Writers
+CRW4804 - Creative Writing in the Community
+CWR3201 - Engineering Fluid Mechanics
+CWR4120 - Hydrology
+CWR4124 - Hydrogeology
+CWR4202C - Hydraulics
+CWR4812C - Water Resources Design
+DAA2000C - Introduction to Theatre Dance
+DAA2100C - Modern Dance I
+DAA2101C - Modern Dance II 
+DAA2200C - Ballet I
+DAA2201C - Ballet II
+DAA2300 - Ballroom Dance
+DAA2351 - Salsa & Latin Dance
+DAA2393C - World Dance
+DAA2520C - Tap Dance I
+DAA2521C - Tap Dance II
+DAA2570C - Jazz Dance I
+DAA2571C - Jazz Dance II
+DAA3004L - Dance Studio
+DAA3208C - Ballet III
+DAA3508C - Jazz Dance III
+DAA3524C - Tap Dance III
+DAA3612 - Dance Improvisation/Composition I
+DAA3645 - Choreography Practicum
+DAA3684 - Dance Performance
+DAA3905 - Directed Independent Study
+DAA4912 - Directed Independent Research
+DAE3370 - Dance and Rhythmics
+DAN3134 - Dance History I
+DEP2004 - Developmental Psychology
+DEP2004H - Honors Developmental Psychology
+DEP3464 - Psychology of Aging
+DIG2000 - Introduction to Digital Media
+DIG2030 - Digital Video Fundamentals
+DIG2109 - Digital Imaging Fundamentals
+DIG2500 - Fundamentals of Interactive Design
+DIG2783 - Fundamentals of Game Art
+DIG3003 - Adventures in Emerging Media
+DIG3024 - Digital Cultures & Narrative
+DIG3043 - Evolution of Video Games
+DIG3118 - Digital Tools and Technologies: Graphic Design
+DIG3134C - Server-Side Scripting
+DIG3146 - Immersive Platforms
+DIG3171 - Tools for Digital Humanities
+DIG3174C - Front-End Web Design
+DIG3175 - Design for Accessibility and Engagement
+DIG3355C - Artificial Environments and Effects
+DIG3433C - Visual Storytelling and Visual Development
+DIG3450 - Interactive Performance I
+DIG3480 - Computer as a Medium
+DIG3525 - Digital Media Project Management
+DIG3554 - Digital Tools and Technologies: Web Design
+DIG3602C - Physical Computing
+DIG3716C - Client-Side Scripting
+DIG3727C - Game Level Design
+DIG3728C - Game Testing
+DIG3811 - User-Centered Design
+DIG3933H - Honors Video Game Theory & Design
+DIG3951 - Character Animation Portfolio Review
+DIG4104C - Web and Interactive Media Capstone I
+DIG4138 - Digital Sculpting
+DIG4172C - Web and Interactive Media Capstone II
+DIG4206C - New Imagery in Motion Workshop
+DIG4294C - Post-Production Game FX
+DIG4295C - Game Optimization & Performance
+DIG4323C - Modeling for Visual Language
+DIG4324C - Modeling for Realtime Systems II
+DIG4325C - Look Modeling Workshop
+DIG4326C - Geometrical Modeling Workshop
+DIG4354C - Advanced 3D Animation
+DIG4359C - Artificial Environments and Effects Workshop
+DIG4373C - 3D Textures
+DIG4394C - Motion Graphics: Advanced Compositing
+DIG4395 - Motion Capture for Performance
+DIG4434C - Narrative Techniques in the Moving Image
+DIG4451C - Visual Storytelling and Visual Development Workshop
+DIG4486C - Visual Language of Moving Image II
+DIG4503C - Low and No Code Development
+DIG4595 - Portfolio Development
+DIG4624C - Digital Production in Artificial Environments
+DIG4630 - Creative Industries
+DIG4633C - Multi-Modal Design
+DIG4639C - Mobile Development
+DIG4704 - Interactive Entertainment
+DIG4713 - Game Design
+DIG4714C - Intermediate Game Development
+DIG4715C - Game Production
+DIG4720C - Casual Game Production
+DIG4725C - Game Design Workshop I
+DIG4726C - Game Design Workshop II
+DIG4778C - Game Design Tools & Plugins
+DIG4780C - Modeling for Realtime Systems
+DIG4813 - Contemporary Topics in Digital Media
+DIG4855 - Converging Media Capstone
+DIG4941 - Internship
+DSC4012 - Terrorism
+DSC4013 - Homeland Security and Criminal Justice
+EAB3703 - Principles of Behavior Modification
+EAP1850 - English for Academic Purposes I
+EAP2851 - English for Academic Purposes II
+EAS3101 - Fundamentals of Aerodynamics
+EAS3530 - Space Systems Concepts
+EAS3800C - Aerospace Engineering Measurements
+EAS3810C - Design of Aerospace Experiments
+EAS3933 - Aerospace Career and Academic Faculty Advising I
+EAS3955 - Study Abroad in Brazil
+EAS4105 - Flight Mechanics
+EAS4134 - High-Speed Aerodynamics
+EAS4200 - Analysis & Design of Aerospace Structures
+EAS4300 - Aerothermodynamics of Propulsion Systems
+EAS4400 - Spacecraft Attitude Dynamics
+EAS4404C - Discrete Control in Aerospace Vehicles
+EAS4505 - Orbital Mechanics
+EAS4700C - Aerospace Design I
+EAS4703 - Small Satellite Payloads and Integration:
+EAS4710C - Aerospace Design II
+EAS4931 - Aerospace Career and Academic Faculty Advising II
+ECM4504C - Embedded Computer Systems
+ECO2013 - Principles of Macroeconomics
+ECO2013H - Honors Principles of Economics Macroeconomics
+ECO2023 - Principles of Microeconomics
+ECO2023H - Honors Principles of Microeconomics
+ECO3006 - The Economics of Space
+ECO3070 - Tutoring/Teaching Techniques for Undergraduate Economics
+ECO3101 - Intermediate Microeconomics
+ECO3155 - Thinking Like an Economist
+ECO3203 - Intermediate Macroeconomics
+ECO3223 - Money and Banking
+ECO3410 - Mathematical Economics
+ECO3703 - International Microeconomics
+ECO4303 - History of Economic Thought
+ECO4400 - Game Theory and Economics
+ECO4400H - Honors Game Theory and Economic Applications
+ECO4412 - Econometrics I
+ECO4422 - Econometrics II
+ECO4443 - Introduction to Business Analytics
+ECO4444 - Introduction to Business Analytics for FinTech
+ECO4504 - Public Economics
+ECO4713 - International Macroeconomics
+ECO4714 - Advanced Topics in International Economics
+ECO4751 - Law and Economics
+ECO4903H -  Honors Directed Reading I
+ECO4906 - Directed Independent Study
+ECO4934 - Topics in Econometrics
+ECO4941 - Economics Internship
+ECO4970H - Undergraduate Honors Thesis
+ECP3004 - Seminar on Current Economic Topics
+ECP3006 - Economics of Sports
+ECP3203 - Labor Economics
+ECP3302 - Economics and the Environment
+ECP4303 - Environmental and Natural Resource Economics
+ECP4403 - Industrial Organization
+ECP4530 - Health Economics
+ECS4013 - Development Economics
+ECT2002 - Introduction to Career and Technical Teaching and Training
+ECT3062 - Professional Roles of the Career & Technical Teacher
+ECT3365 - General Methods/Testing Evaluation in Career & Technical Education
+ECT3367 - Evaluation of Career & Technical Education Instruction
+ECT3371 - Course Construction in Industrial Education
+ECT4004 - Principles and Practices of Technical Education
+ECT4184 - Curriculum Development Techniques for Industry Training
+ECT4384 - Advanced Teaching Techniques for Career Education
+ECT4815 - Safety in the Technical Education Classroom and Laboratory
+ECW3064 - Workforce Training and Development Fundamentals
+ECW3312 - Course Construction in Health Occupations Education
+ECW3564 - Special Populations in Career & Technical Education
+ECW4103 - Workforce Training and Development Instructional Planning
+EDE2280 - Arts and Wellness in Elementary Classrooms
+EDE3942 - Internship I
+EDE4223 - Integrated Arts and Movement in the Elementary School
+EDE4301 - Elem Ed Capstone Colloquium
+EDE4943 - Internship II (Elementary)
+EDE4945 - Internship II Seminar
+EDF2005 - Introduction to the Teaching Profession
+EDF2007 - Introduction to Substitute Teaching
+EDF2085 - Introduction to Diversity for Educators
+EDF2130 - Child and Adolescent Development for Educators
+EDF2250 - Classroom Management for Substitute Teachers
+EDF2510 - Education and Nation Building: American Historical Perspectives
+EDF2720 - Children in Schools: Legal, Ethical and Safety Concerns
+EDF3601 - Professional Ethics in Education
+EDF4466 - Classroom Assessment & Evaluation Techniques
+EDF4467 - Learning Theory and Assessment
+EDF4467H - Honors Learning Theory and Assessment
+EDF4603 - Analysis and Application of Ethical, Legal, and Safety Issues in Schools
+EDF4603H - Honors Analysis and Application of Ethical, Legal and Safety Issues in Schools
+EDG2000 - Careers in K-12 Education
+EDG2311 - Teaching Strategies for Substitute Teachers
+EDG2940 - Experiential Learning in Education
+EDG4410 - Teaching Strategies and Classroom Management
+EDG4941 - Directed Field Experience
+EDG4942 - Lifelong Learning Education Internship
+EDG4948 - Service Learning
+EDG4954 - International Education Field Experiences
+EDP2270 - Adult Development & Learning
+EEC2732 - Health, Safety, and Nutrition for Young Children
+EEC3008 - Early Childhood Children's Literature
+EEC3214 - Child Development
+EEC3613 - Observation and Assessment of Young Children
+EEC3700 - Social and Emotional Development of Young Children
+EEC4207 - Assessment and Evaluation of Young Children
+EEC4211 - Science and Math Learning for Young Children
+EEC4235C - Early Childhood Education Seminar: Bridging Theory to Practice
+EEC4268 - Curriculum Activities in Early Childhood
+EEC4303 - Planning Creative Activities in Early Childhood Education
+EEC4314 - Effective Practices for Guiding Young Children's Behavior
+EEC4402 - Cultural and Family Systems
+EEC4414 - Parent-Child Relations
+EEC4524 - Organization and Management in Early Childhood
+EEC4528 - Infant/Toddler Care and Education
+EEC4604 - Classroom Management and Guidance of Young Children
+EEC4661 - Early Childhood Education Theory and Practice:
+EEC4744 - Child Life: Psychosocial Care of Children in Health Settings
+EEC4936 - Seminar in Early Childhood
+EEC4940 - Practicum: Early Childhood Development
+EEC4942 - Practicum: Early Childhood Careers
+EEC4943 - Student Teaching
+EEE3307C - Electronics I
+EEE3342C - Digital Systems
+EEE3350 - Semiconductor Devices
+EEE4309C - Electronics II
+EEE4314 - Device Electronics for Integrated Circuits
+EEE4334 - Computer-Aided Design of VLSI
+EEE4346C - Hardware Security and Trusted Circuit Design
+EEE4463 - MEMS Devices and Applications
+EEE4701 - Verification and Validation of Digital Systems
+EEE4775 - Real-Time Systems
+EEL3004C - Linear Circuits I
+EEL3004K - Honors Linear Circuits I
+EEL3021 - Introduction to Applied Randomness for Engineers
+EEL3123C - Linear Circuits II
+EEL3123K - Honors Linear Circuits II
+EEL3290 - Global Energy Issues
+EEL3470 - Electromagnetic Fields
+EEL3552C - Signal Analysis and Analog Communication
+EEL3657 - Linear Control Systems
+EEL3801C - Computer Organization
+EEL3926L - ECE Design Lab
+EEL4140C - Analog Filter Design
+EEL4205 - Electric Machinery
+EEL4216 - Fundamentals of Electric Power Systems
+EEL4294 - Introduction to Smart Grid
+EEL4298 - Power System Economics
+EEL4362 - Post-CMOS Devices and Circuits
+EEL4436C - Microwave Engineering
+EEL4440C - Optical Engineering
+EEL4515C - Fundamentals of Digital Communication
+EEL4518 - Satellite Communications
+EEL4612C - Introduction to Modern and Robust Control
+EEL4635C - Computer Control Systems
+EEL4650 - Introduction to Sensors
+EEL4660 - Robotic Systems
+EEL4742C - Embedded Systems
+EEL4750 - Digital Signal Processing Fundamentals
+EEL4768 - Computer Architecture
+EEL4781 - Computer Communication Networks
+EEL4783 - Hardware Description Languages in Digital Systems Design
+EEL4798 - Massive Storage and Big Data
+EEL4810 - Fundamentals of Neural Networks and Deep Learning
+EEL4815 - Current Topics in Machine Learning I
+EEL4817H - Honors Current Topics in Machine Learning II
+EEL4832 - Engineering Applications of Computer Methods
+EEL4851C - Engineering Data Structures
+EEL4872 - Engineering Applications of Intelligent Systems
+EEL4882 - Engineering Systems Software
+EEL4884C - Engineering Software Design
+EEL4890 - Continuous System Simulation I
+EEL4914 - Senior Design I
+EEL4915L - Senior Design II
+EES4111C - Biological Process Control
+EES4202C - Chemical Process Control
+EES4421 - Fate and Transport of Contaminants in the Environment
+EEX2010 - Introduction to Special Education
+EEX2090 - Exceptional Populations in School and Society
+EEX2758 - Enhancing Family Involvement in Education
+EEX3221 - Assessment of Exceptional Students
+EEX3241 - Methods for Academic Skills for Exceptional Students
+EEX3243 - Techniques for Exceptional Adolescents-Adults
+EEX3450 - Young Children With Special Needs
+EEX3830 - Practicum in Exceptional Student Education
+EEX3942 - Internship I Exceptional Education
+EEX4066 - Curriculum, Theory and Instructional Strategies for Students with Special Needs
+EEX4070 - Teaching Exceptional Students
+EEX4204 - Instructional Strategies for Effective Inclusive Settings
+EEX4242 - Teaching Exceptional Students in Secondary Settings
+EEX4250 - Reading Instruction in Exceptional Education
+EEX4601 - Introduction to Behavior Management
+EEX4751 - Parent Involvement in Education
+EEX4757 - Respite Care
+EEX4763 - Technology for Classroom Teachers of Students with Special Needs
+EGM3601 - Solid Mechanics
+EGM3601H - Honors Solid Mechanics
+EGN1007C - Engineering Concepts and Methods
+EGN2920C - LEAD Colloquium
+EGN3211 - Engineering Analysis and Computation
+EGN3310 - Engineering Analysis-Statics
+EGN3310H - Honors Engineering Analysis-Statics
+EGN3321 - Engineering Analysis-Dynamics
+EGN3321H - Honors Engineering Analysis – Dynamics
+EGN3331C - Mechanics of Materials
+EGN3343 - Thermodynamics
+EGN3343H - Honors Thermodynamics
+EGN3365 - Structure and Properties of Materials
+EGN3365H - Honors Structure and Properties of Materials
+EGN3373 - Principles of Electrical Engineering
+EGN3420 - Engineering Analysis
+EGN3613 - Engineering Economic Analysis
+EGN4060C - Introduction to Robotics
+EGN4630 - Entrepreneurship for Defense
+EGN4641C - Engineering Entrepreneurship
+EGN4931H - Honors Engineering Seminar
+EGN4941 - Internship
+EGS1006C - Introduction to the Engineering Profession
+EGS3030 - Leadership in Engineering I
+EGS3031 - Leadership in Engineering II
+EGS4624 - Engineering Innovation and Leadership
+EGS4633 - Engineering Consumer Products
+EGS4950 - Engineering Leadership Capstone
+EIN2002 - Introduction to Industrial Engineering and Management Systems
+EIN3351 - Engineering Economic Analysis and Cost Engineering
+EIN4243 - Human Engineering
+EIN4333 - Production and Distribution Systems
+EIN4360 - Facilities Planning and Work Design
+EIN4391 - Fundamentals of Digital Manufacturing for Industrial Engineers
+EIN4517 - Systems Engineering
+EIN4545 - Industrial Engineering Applications in the Service Industries
+EIN4891C - Industrial Engineering Senior Design Project
+EMA3000 - Engineering Polymeric Materials
+EMA3012C - Experimental Techniques in Materials I
+EMA3102 - Thermodynamics of Materials
+EMA3124 - Design and Selection of Materials
+EMA3691 - Nanomaterials Process Engineering
+EMA3706 - Structure and Properties of Aerospace Materials
+EMA4009 - Materials in Society
+EMA4013C - Experimental Techniques in Materials II
+EMA4115 - Transport Phenomena in Materials
+EMA4125 - Phase Transformations and Microstructural Development in Materials
+EMA4223 - Fundamentals of Mechanical Behavior of Materials
+EMA4307 - Kinetics of Materials
+EMA4413 - Fundamentals of Electronic Materials
+EMA4501C - Scanning Electron Microscopy
+EMA4503 - Materials Characterization Techniques
+EMA4506 - Emerging Materials
+EMA4513 - Structures of Materials
+EMA4602C - Materials Processing Laboratory
+EMA4915 - Materials Senior Design I
+EMA4916 - Materials Senior Design II
+EME2040 - Introduction to Technology for Educators
+EML3022C - Introduction to Computer Aided Engineering
+EML3034C - Modeling Methods in Mechanical and Aerospace Engineering
+EML3034K - Honors Modeling Methods in MAE
+EML3101 - Thermodynamics of Mechanical Systems
+EML3262 - Kinematics of Mechanisms
+EML3303C - Mechanical Engineering Measurements
+EML3500 - Design and Analysis of Machine Components
+EML3701 - Fluid Mechanics I
+EML3701H - Honors Fluid Mechanics I
+EML3811C - Mechatronics
+EML3933 - Mechanical Career and Academic Faculty Advising I
+EML4024C - Engineering Design Practice
+EML4142 - Heat Transfer
+EML4142H - Honors Heat Transfer I
+EML4143 - Heat Transfer II
+EML4220 - Vibrations
+EML4225 - Introduction to Vibrations and Controls
+EML4225H - Honors Introduction to Vibrations & Controls
+EML4260 - Dynamics of Machinery
+EML4264 - Vehicle Dynamics
+EML4301C - Mechanical Systems Laboratory
+EML4306C - Energy Systems Laboratory
+EML4312 - System Dynamics and Control
+EML4313 - Intermediate System Dynamics and Controls
+EML4321 - Manufacturing Processes for Mechanical Components
+EML4327 - Digital Manufacturing
+EML4411 - Modern Power Generation Systems
+EML4454 - Turbines for Sustainable Power
+EML4501C - Engineering Design I
+EML4502C - Engineering Design II
+EML4504 - Design & Analysis of Machine Components II
+EML4600 - HVAC Systems Engineering
+EML4703 - Fluid Mechanics II
+EML4804C - Digital Control in Mechatronics
+EML4841H - Locomotion and Design in Natural Systems
+EML4931 - Mechanical Career and Academic Faculty Advising II
+ENC1101 - Composition I
+ENC1101H - Honors Freshman Composition I
+ENC1102 - Composition II
+ENC1102H - Honors Freshman Composition II
+ENC1130 - Improving College-Level Writing
+ENC2127 - Grammar and Composition
+ENC3241 - Writing for the Technical Professional
+ENC3241H - Honors Writing for the Technical Professional
+ENC3250 - Professional Writing
+ENC3250H - Honors Professional Writing
+ENC3258H - Honors Video Game Theory & Design
+ENC3310 - Magazine Writing I
+ENC3311 - Essay as Cultural Commentary
+ENC3314 - Writing and Rhetoric Foundations
+ENC3315 - Argumentative Writing
+ENC3330 - Rhetorical Traditions
+ENC3331 - Rhetoric and Civic Engagement
+ENC3351 - Writing for Publication
+ENC3351H - Honors Writing for Publication
+ENC3372 - Topics in Civic Rhetoric and Writing
+ENC3373 - Cultural Rhetorics
+ENC3375 - Rhetoric in Popular Culture
+ENC3382 - Rhetorics of Comics
+ENC3383 - Disability Studies in Writing and Rhetoric
+ENC3383H - Honors Disability Studies in Writing and Rhetoric
+ENC3417 - Literacy and Technology
+ENC3433 - Multimedia Writing and Composition
+ENC3453 - Writing About Health and Medicine
+ENC3455 - Writing about Science and Technology
+ENC3455H - Honors Writing About Science and Technology
+ENC3456H - Honors Writing about Health and Medicine
+ENC3473 - Writing in Disciplinary Cultures
+ENC3482 - Graphic Medicine
+ENC3482H - Honors Graphic Medicine
+ENC3502 - Research Methods in Writing and Literacy Studies
+ENC3503 - Topics in Writing & Literacy Studies
+ENC3521 - Writing Across Difference
+ENC3600 - Literacies of Artificial Intelligence 
+ENC3905 - Directed experience in Writing
+ENC4212 - Professional Editing
+ENC4215 - Document Design and Publication
+ENC4218 - Visual Technical Communication
+ENC4219 - Technical Communication and Plain Language
+ENC4262 - International Technical Communication
+ENC4265 - Writing for the Computer Industry
+ENC4275 - Theory and Practice of Tutoring Writing
+ENC4280 - Technical Writing Style
+ENC4290 - Usability Testing for Technical Communication
+ENC4293 - Documentation and Project Management
+ENC4294 - Client-Based Project Management
+ENC4298 - Technical Communication for the Virtual Workplace
+ENC4312 - Theory & Practice Persuasive Writing
+ENC4313 - Research Writing
+ENC4331 - Latinx Rhetorics
+ENC4353 - Writing for Social Change
+ENC4354 - Writing with Communities and Nonprofits
+ENC4354H - Honors Writing with Communities and Nonprofits
+ENC4360 - Nature Writing
+ENC4374 - Gendered Rhetorics
+ENC4378 - Writing in Global and Transnational Contexts
+ENC4379 - Writing and Rhetoric Capstone
+ENC4405 - Queer Rhetoric and Queering Writing
+ENC4414 - Writing and Hypertext
+ENC4415 - Digital Rhetorics and The Modern Dialectic
+ENC4416 - Writing in Digital Environments
+ENC4416H - Honors Writing in Digital Environments
+ENC4434 - Visual and Material Rhetorics
+ENC4504 - Contemporary Composition Theory
+ENC4523 - Writing and Identity
+ENC4936 - Topics in Technical Communication
+ENC4943 - Practicum in Editing & Publishing
+ENC4944 - Writing Internship
+ENC4950 - Writing ePortfolio
+ENG3010 - Practical Criticism
+ENG3014 - Theories and Techniques of Literature Study
+ENG3073 - Cultural Studies Literature
+ENG3392 - Literary Gaming
+ENG3612 - Trends in Literary, Cultural, and Textual Studies
+ENG3616 - Fan Studies
+ENG3623 - Social Media for English Majors 
+ENG3817 - Digital Archives
+ENG3821 - What's Next For English Majors
+ENG3831 - Introduction to Editorial Professions
+ENG3833 - Marketing Your Writing
+ENG3836 - Careers and Professional Practices in Writing and Rhetoric
+ENG3860 - Critical Making in the Humanities
+ENG3861 - Digital Humanities Approaches to AI
+ENG3935 - Topics in Digital Humanities
+ENG4071 - Topics in Contemporary Literary Theory
+ENG4114 - Literature and Film
+ENG4614 - Discourse of Global Cultural Studies
+ENG4832 - Scholarly Editing & Publishing
+ENL2012 - English Literature I
+ENL2022 - English Literature II
+ENL3220 - English Renaissance Poetry and Prose
+ENL3222 - Renaissance Women in Literature
+ENL3231 - Restoration Literature
+ENL3296 - Gothic Literature
+ENL3296H - Honors Gothic Literature
+ENL3378 - Harry Potter Studies
+ENL3378H - Honors Harry Potter Studies
+ENL3451 - Topics in British Literature
+ENL3654 - Black British Literature
+ENL4101 - English Novel
+ENL4230 - Eighteenth-Century Studies
+ENL4240 - English Romantic Writers
+ENL4253 - The Victorian Age
+ENL4262 - Nineteenth Century British Prose
+ENL4273 - Modern British Literature
+ENL4303 - British Authors
+ENL4311 - Chaucer
+ENL4333 - Shakespeare Studies
+ENL4341 - Milton and His Age
+ENT3613 - Creativity and Entrepreneurship
+ENT4013 - New Venture Design
+ENT4014 - New Venture Implementation
+ENT4183 - Technological Entrepreneurship
+ENT4412 - Managing Small Business Finances
+ENT4503 - Social Entrepreneurship
+ENT4942 - Entrepreneurial Internship
+ENV3001 - Environmental Engineering
+ENV4120 - Air Pollution and Hazardous Waste Control
+ENV4122C - Air Pollution Control Design
+ENV4300C - Solid Waste Facility Design
+ENV4341 - Sustainable Resource Management
+ENV4433C - Environmental Engineering Wastewater Design
+ENV4531 - Environmental Engineering Unit Operations & Processes
+ENV4561 - Advanced Environmental Engineering Operations & Processes
+ENV4562C - Environmental Engineering Water Treatment Design
+ENY3571 - Honey Bee Biology and Beekeeping
+ENY4004C - General Entomology
+ENY4455C - Social Insect Behavior
+ESE3940 - Internship I - Secondary
+ESE4033C - Critical Issues and Trends in Secondary Education
+ESE4942 - Internship II Seminar
+ESE4943 - Internship II - Secondary
+ESI3933 - Industrial Engineering Career Faculty Advising
+ESI4221 - Empirical Methods for Industrial Engineering
+ESI4234 - Quality Engineering
+ESI4312 - Deterministic Methods for Operations Research
+ESI4313 - Stochastic Methods for Operations Research
+ESI4322 - Supply Chain Engineering
+ESI4523 - Systems Simulation
+EUH2000 - Western Civilization I
+EUH2001 - Western Civilization II
+EUH3122 - Medieval Society and Civilization
+EUH3124 - The Crusades
+EUH3130 - Medieval Knights & Age of Chivalry
+EUH3142 - Renaissance and Reformation
+EUH3180 - Sorcerers, Saints and Heretics: Religion in the Medieval World
+EUH3180H - Honors Saints, Sorcerers, and Heretics: Religion in the Medieval World
+EUH3235 - Romanticism and Realism
+EUH3242 - Modern Europe and the First World War
+EUH3281 - Second World War and Rebirth of Europe
+EUH3310 - History of Medieval Spain 400-1100
+EUH3313 - History of Medieval Spain 1100-1500
+EUH3411 - History of the Roman Republic
+EUH3431 - History of Modern Italy
+EUH3441 - Early Modern France
+EUH3451 - History of Modern France
+EUH3531 - Medieval Ireland
+EUH3538 - Modern Ireland
+EUH3651 - War and Society
+EUH4131 - European Warfare 1300-1650
+EUH4283 - Cold War Homefronts
+EUH4284 - Fascism and Nazism in the Interwar Europe
+EUH4315 - History of Modern Spain 1500-present
+EUH4400 - The History of Ancient Greece
+EUH4402 - The Age of Alexander the Great
+EUH4413 - History of the Roman Empire
+EUH4426 - Sex and Gender in Antiquity
+EUH4465 - Hitler's Third Reich
+EUH4468 - Medieval & Reformation Germany
+EUH4500 - English History to 1485
+EUH4501 - English History: 1485-1815
+EUH4502 - British History: 1815-Present
+EUH4504 - English Legal History I
+EUH4571 - History of Russia to 1801
+EUH4574 - History of Russia: 1801-1917
+EUH4576 - History of Russia in the 20th Century
+EUH4610 - Women in European Society: From Medieval to Modern
+EUH4610H - Honors Women in European Society
+EUH4620 - European Great Powers: 1815-1914
+EUH4663 - History of Communism in Europe
+EUH4668H - Honors The Allure of Tyranny
+EUH4674 - Sport and Society in the Ancient World
+EUH4674H - Honors Sports & Society in the Ancient World
+EUH4686H - Honors Amusing and Biting: Dramatic Comedy Through the Ages
+EVR1001 - Introduction to Environmental Science
+EVR1001H - Honors Introduction to Environmental Science
+EVR3008 - Foundations of Environmental Studies
+EVR3021 - The Science of Sustainability
+EVR3085 - Interdisciplinary Research Methods for Environmental Studies
+EVR3422 - Sustainability and Behavior
+EVR3733 - Introduction to Sustainable Design
+EVR4841 - Environmental Project Management
+EVR4940 - Capstone Environmental Studies
+EXP3204 - Sensation and Perception
+EXP3250 - Principles of Human Factors Psychology
+EXP3304 - Motivation and Emotion
+EXP3404 - Basic Learning Processes
+EXP3604 - Cognitive Psychology
+EXP3640 - Psychology of Language
+EXP4507 - Advanced Human Memory and Cognition
+FIL1000 - Cinema Survey
+FIL1000H - Honors Cinema Survey
+FIL1007 - Foundations of Story
+FIL1008 - Cinematic Expression I
+FIL2030 - History of Motion Pictures
+FIL2107 - Script Analysis
+FIL2424 - Introduction to Film Production
+FIL2461C - Cinematography I
+FIL2534C - Sound Design for Film I
+FIL2552C - Editing I
+FIL3006 - Art of the Cinema
+FIL3036 - Film History I
+FIL3037 - Film History II
+FIL3041 - History of Animated Films I
+FIL3051 - Avant-Garde Cinema
+FIL3074C - Cinema 1980s to the Present
+FIL3102 - Writing for Film and TV
+FIL3115 - Short Script I
+FIL3132 - Short Script II
+FIL3304C - Documentary Vision
+FIL3307 - Docudrama
+FIL3363C - Film Documentary
+FIL3379C - Advanced Documentary Production
+FIL3379K - Honors Advanced Documentary Workshop
+FIL3401 - Research Methods for Filmmakers
+FIL3462C - Cinematic Expression II
+FIL3482 - Directing the Actor for Film I
+FIL3483 - Directing the Actor for Film II
+FIL3485 - Directing Techniques for Film
+FIL3720C - Introduction to Animation
+FIL3734C - Intermediate Animation
+FIL3803C - Film Theory and Criticism I
+FIL3804C - Film Theory and Criticism II
+FIL3823 - German Film
+FIL3826 - American Cinema
+FIL3831 - Black Cinema
+FIL3842 - International Cinema
+FIL3845 - World Cinema Traditions
+FIL3847 - Latin American Cinema
+FIL3871 - The American Film Artist
+FIL3880C - Images of Women in Film
+FIL3922 - Film Colloquium
+FIL4040 - Animation Film History for Non-Film Majors
+FIL4042 - History of Animated Films II
+FIL4103 - Adaptation
+FIL4103H - Honors Film Adaptation
+FIL4162C - Feature/TV Writing I
+FIL4163C - Feature/TV Writing II
+FIL4301C - Documentary Production I
+FIL4302C - Documentary Production II
+FIL4427C - Film Production Workshop
+FIL4428C - Narrative Production I
+FIL4434C - Capstone I - The Professional Practice
+FIL4437C - Narrative Production II
+FIL4439C - Micro-Process Production
+FIL4451 - Design for Film
+FIL4453C - Special Problems in Film Design
+FIL4472C - Cinematography II
+FIL4486C - Directing for Film II
+FIL4535C - Sound Design for Film II
+FIL4536C - Sound Design for Film III
+FIL4566C - Editing II
+FIL4573C - Capstone II - Exhibition and Seminar
+FIL4602 - Film Business
+FIL4615C - Film Marketing and Exhibition
+FIL4647 - Film Production Management
+FIL4661 - The Film Producer
+FIL4735C - Advanced Animation Thesis Production
+FIL4750C - Animation & Visualization Workshop
+FIL4830 - Motion Picture Genre
+FIL4830H - Honors Motion Picture Genre
+FIL4855 - Independent Cinema
+FIL4876C - Experimental Cinema I
+FIL4877C - Experimental Cinema II
+FIL4906 - Directed Independent Study
+FIL4912 - Directed Independent Research
+FIL4934C - Current Problems in Film and Culture
+FIL4941 - Internship
+FIN2100 - Personal Finance and Investments
+FIN3403 - Business Finance
+FIN3403H - Honors Business Finance
+FIN3414 - Intermediate Corporate Finance
+FIN3461 - Financial Statement Analysis
+FIN4243 - Debt and Money Markets
+FIN4324 - Commercial Bank Management
+FIN4424 - Advanced Topics in Financial Management
+FIN4450 - Foundations of FinTech
+FIN4451 - FinTech for Decision Makers
+FIN4453 - Financial Models
+FIN4504 - Equity and Capital Markets
+FIN4514 - Portfolio Analysis and Management
+FIN4533 - Financial Derivatives
+FIN4560H - Honors Applied Portfolio Management 1
+FIN4561H - Honors Applied Portfolio Management 2
+FIN4604 - International Financial Management
+FIN4903H - Honors Directed Reading I
+FIN4941 - Finance Internship
+FIN4970H - Honors Undergraduate Thesis I
+FLE3160 - Education and Culture/Language Diversity
+FLE4340 - Teaching World Languages in K-12 Schools
+FOL1930 - Elementary Kurdish Language and Civilization I
+FOL1931 - Elementary Kurdish Language & Civilization II
+FRE1120C - Elementary French Language and Civilization I
+FRE1121C - Elementary French Language and Civilization II
+FRE2200 - Intermediate French Language and Civilization I
+FRE2201 - Intermediate French Language and Civilization II
+FRE3300 - French Grammar
+FRE3400 - French Conversation and Composition
+FRE3423 - Advanced French Grammar Abroad
+FRE3440 - Business French I
+FRE3441 - Business French II
+FRE3780 - French Phonetics and Diction
+FRE4421 - Advanced French Conversation
+FRE4422 - Advanced French Composition
+FRE4500 - French Civilization and Culture
+FRE4503 - Quebecois Civilization
+FRE4701 - Francophone Linguistics
+FRE4950C - French Portfolio
+FRT3140 - French and Francophone Literary Masterworks in Translation
+FRT3451 - French Translation and Interpretation
+FRT3562 - French Contemporary Pop Culture
+FRT3564 - Frenglish in Social Media
+FRT3810 - French Multimedia Translation and Interpretation
+FRT3830 - Medical French Translation and Interpretation
+FRT3831 - French Legal Translation and Interpretation
+FRT4421 - War, Love, and Laughter in the French Middle Ages
+FRT4521 - Language and Culture through Francophone Cinema
+FRT4563 - French Women Warriors and others of the World: Myth and Reality
+FRT4801 - French Business Translation and Interpretation
+FRT4941 - Internship
+FRW3001 - Fundamentals of French and Francophone Literature
+FRW3100 - Survey of French Literature I
+FRW3101 - Survey of French Literature II
+FRW3370 - From the Merveilleux to the Fantastique: French Modern Short Stories
+FRW3740 - The French Literature of Canada
+FRW3752 - French Caribbean Literature
+FRW3760 - Creole Identity in the French-Speaking World
+FRW3770 - Francophone Literature
+FRW3810 - French Literary Texts and Analysis
+FRW4281 - 20th Century French Novels
+FRW4310 - Early Modern French Theater
+FRW4324 - 20th Century French Drama
+FRW4380 - Happily Ever After: Fairy Tales to Ex-Machina
+FRW4440 - French Literature of the Eighteenth Century
+FRW4532 - French Romanticism
+FRW4552 - Nineteenth Century French Literature
+FSS2221 - Techniques of Food Preparation
+FSS2221C - Techniques of Food Preparation
+FSS2284C - Food Preparation for Catered Events
+FSS3003C - Culinary Health
+FSS3006C - Garde Manger
+FSS3008 - Culture and Cuisine
+FSS3051C - Techniques of Baking and Pastry
+FSS3124 - Food Supply Chain Management
+FSS3232C - Foodservice Operations Management
+FSS3245 - Culinary Cannabis
+FSS3283C - Culinary Experiences in Theme Parks and Attractions
+FSS4135 - Corporate Contract and Managed Services Organizations
+GEA3455 - Geography of Brazil
+GEA4405 - Geography of Latin America
+GEA4405H - Honors Geography of Latin America
+GEB3003 - Career Research & Planning
+GEB3005 - Career Search Strategy
+GEB3006 - Introduction to Career Development and Financial Plannings
+GEB3031 - Integrated Business Foundations
+GEB3375 - Introduction to International Business
+GEB3375H - Honors Introduction to International Business
+GEB4004 - Executing Your Career Plan
+GEB4104 - Small Business Development
+GEB4223 - Business Interviewing Techniques
+GEB4374 - International Negotiations and Transactions
+GEB4435 - Moral Foundations of Business
+GEB4451 - Business Climate Analysis
+GEB4513 - Applied Business Technologies
+GEB4522 - Data Driven Decision Making
+GEB4934 - Current Topics in Business Administration
+GEB4941 - Integrated Business Internship
+GEO1200 - Physical Geography
+GEO2370 - Resources Geography
+GEO3471 - World Political Geography
+GEO3471H - Honors World Political Geography
+GER1120C - Elementary German Language and Civilization I
+GER1121C - Elementary German Language and Civilization II
+GER2200 - Intermediate German Language and Civilization I
+GER2201 - Intermediate German Language and Civilization II
+GER3102 - Germany - Past to Present
+GER3760 - Advanced German Oral Communication
+GEW3480 - German Post-War Literature
+GEY3001 - Gerontology: An Interdisciplinary Overview
+GIS3043C - GIS for Environmental Studies
+GIS4301C - Advanced GIS Applications in Environmental Studies
+GIS4304 - GIS for Sustainable Design
+GIS4314 - GIS Research Methods for Environmental Studies 
+GLY1030 - Geology and its Applications
+GLY2038 - Environmental Geoscience
+GLY4730 - Marine Geology
+GLY4734 - Coastal Processes
+GRA2101C - Introduction to Computer Art
+GRA2151C - Illustration
+GRA3102C - Intermediate Graphic Design I
+GRA3112C - Intermediate Graphic Design II
+GRA3202C - Type & Design
+GRA3747C - Intermediate Illustration I
+GRA3803C - Intermediate Computer Graphic Design
+GRA3950 - Graphic Design Portfolio
+GRA4154C - Advanced Illustration
+GRA4196C - Advanced Graphic Design
+GRA4197C - Special Problems in Graphic Design
+GRA4209C - Type & Design II
+GRA4802C - Motion Design
+HAI1100C - Elementary Haitian Creole & Culture I
+HAI1101C - Elementary Haitian Creole & Culture II
+HAT3504 - Creole Women Writers in Translation
+HBR1104 - Exploring Hebrew: Letters & Language
+HBR1120 - Modern Israeli Hebrew I
+HBR1121 - Modern Israeli Hebrew II
+HBR2200 - Intermediate Modern Israeli Hebrew I
+HBR2201 - Intermediate Modern Israeli Hebrew II
+HBR3250 - Biblical Hebrew
+HBR3410 - Conversational Israeli Hebrew
+HCW3024 - Haitian Literature and Culture
+HFT1000 - Introduction to the Hospitality and Tourism Industry
+HFT2071 - Introduction to the Entertainment Industry
+HFT2220 - Hospitality Human Resources Management
+HFT2254 - Lodging Operations
+HFT2390 - Introduction to Theme Parks and Attractions 
+HFT2401 - Hospitality Industry Financial Accounting
+HFT2434 - Introduction to Professional Tennis Management
+HFT2500 - Hospitality and Tourism Marketing
+HFT2563 - Digital Marketing in Entertainment
+HFT2750 - The Event Industry
+HFT2843 - Sanitation in the Food Service Industry
+HFT3005 - Introduction to Lifestyle Community and Senior Living Industries
+HFT3012 - Gastronomy and Wellness Tourism
+HFT3014 - Wellness Management in Hospitality and Tourism
+HFT3068 - History and Culture of Beer
+HFT3075 - Sustainability in Hospitality and Tourism
+HFT3209 - International Spa Management in the Hospitality Industry
+HFT3224 - Hospitality Management & Leadership Fundamentals
+HFT3263 - Restaurant Management
+HFT3273 - Principles of Resort Timesharing
+HFT3357 - Sport and Club Event Operations
+HFT3362 - Technology and Innovation in the Theme Park and Attraction Industry 
+HFT3363 - Managing Natural Attractions 
+HFT3364 - Dynamic Marketing of Sporting Events
+HFT3375 - Entertainment Business
+HFT3384 - Sport and Club Enterprise Management
+HFT3391 - Experiences in Sporting Events
+HFT3395 - Entertainment Technology and Innovation
+HFT3431 - Hospitality Industry Managerial Accounting
+HFT3443 - Event Technology
+HFT3444 - Hospitality Information Systems
+HFT3447 - Database Management and Internet Security for Hospitality Organizations
+HFT3463 - Revenue Strategies in the Entertainment Industry
+HFT3465 - Applied Quantitative Analysis for the Hospitality and Tourism Industry
+HFT3466 - Merchandise Management in Theme Parks and Attractions 
+HFT3505 - Social Media Management in the Hospitality Industry
+HFT3512 - Event Promotion
+HFT3519 - Event Services
+HFT3523 - Event Sales
+HFT3540 - Guest Services Management I
+HFT3564 - Digital Marketing for Hospitality Organizations
+HFT3593 - Consumer Behavior in Entertainment
+HFT3594 - Entertainment Brand Relations and Publicity
+HFT3603 - Legal Environment in the Hospitality and Tourism Industry
+HFT3654 - Hospitality Franchising
+HFT3670 - Hospitality and Event Risk Management
+HFT3700 - Tourism Management
+HFT3712 - Managing Cultural Attractions 
+HFT3748 - Events in Sport Tourism
+HFT3770 - Cruise Line Operations and Management
+HFT3785 - Management of Gaming Enterprises
+HFT3792 - Leading in the Entertainment Industry
+HFT3798 - Fairs and Festivals
+HFT3811 - Beverage Sales, Marketing, and Distribution
+HFT3813 - Marketing Analysis in the Food Ind
+HFT3868 - History and Culture of Wine
+HFT3868C - History and Culture of Wine
+HFT3868K - Honors History and Culture of Wine
+HFT3893 - Gastronomy Tourism
+HFT3933 - Distinguished Lectures in Hospitality Management
+HFT3940 - Internship I
+HFT3949 - Cooperative Education
+HFT4065 - Fine Spirits Management
+HFT4065C - Fine Spirits Management
+HFT4155 - International Theme Park and Attraction Management 
+HFT4206C - Hospitality Operations
+HFT4244 - Hospitality Managerial Decision-Making
+HFT4252 - Employees Wellbeing in Hospitality and Tourism
+HFT4253 - Advanced Lodging Operations
+HFT4266 - Hospitality Brand Management
+HFT4272 - Leadership and Strategic Management in the Lifestyle Community and Senior Living Industry
+HFT4274 - Resort Management
+HFT4277 - Club Management
+HFT4281 - Lodging & Restaurant Leadership and Strategy
+HFT4286 - Hospitality Communications
+HFT4292 - Hospitality Innovation & Entrepreneurship
+HFT4295 - Leadership and Strategic Management in Hospitality Industry
+HFT4343 - Hospitality Facilities Management
+HFT4371 - Events and Attractions Across Cultures
+HFT4372 - Entertainment Across Cultures
+HFT4374 - Narrative in the Theme Park and Attraction Industry 
+HFT4377 - Entertainment Production Management
+HFT4378 - Entertainment Portfolio Management
+HFT4394 - Event Operations
+HFT4398 - Entertainment Entrepreneurship
+HFT4413 - Technology Applications for Hospitality Management
+HFT4432 - Hospitality Industry Auditing
+HFT4457 - Optimizing Profits in Food Ops
+HFT4464 - Hospitality Industry Finance
+HFT4468 - Revenue Management in the Hospitality Industry
+HFT4469 - Financial Performance in Entertainment
+HFT4473 - Hospitality Planning and Design
+HFT4483 - Hospitality Intelligence and Analytics
+HFT4522 - Lodging Sales Tactics & Strategies
+HFT4542 - Strategic Event Design
+HFT4561 - Destination Marketing & Management
+HFT4614 - Risk Management in Theme Parks and Attractions
+HFT4623 - Entertainment Law and Ethics
+HFT4626 - Public Policy Issues in the Entertainment Industry
+HFT4715 - Tourism Policy, Development & Sustainability
+HFT4732 - Tourism Impact Analysis
+HFT4735 - Tourism Geography
+HFT4749 - Research in Sport Tourism
+HFT4751 - Managing the Employee Experience in the Theme Park and Attraction Industry
+HFT4752 - Managing the Guest Experience in the Theme Park and Attraction Industry
+HFT4754 - Exhibit and Trade Show Operations
+HFT4755 - Theme Park and Attraction Management
+HFT4757 - Event Tourism Strategies
+HFT4758 - Operational Issues in the Theme Park and Attraction Industry
+HFT4759 - Product Development in Theme Parks and Attractions
+HFT4762 - Current Practices in the Airline Industry
+HFT4795 - Entertainment Arts and Events
+HFT4796 - International Events
+HFT4802 - Catering Sales Management
+HFT4856 - Event Food and Beverage Strategies
+HFT4861 - Beverage Management
+HFT4864C - Seminar in Quality Brewing and Fine Beer
+HFT4865C - Advanced Wine Management
+HFT4866 - Exploring Wines of the World
+HFT4866C - Exploring Wines of the World
+HFT4894 - International Gastronomy
+HFT4941 - Internship II
+HFT4944 - Internship III
+HFT4949 - Cooperative Education
+HFT4950 - Project Management in the Theme Park and Attraction Industry 
+HIM3006 - Foundations of Health Information Management (HIM)
+HIM3116 - Health Record Organization & Management
+HIM3806C - Professional Practice Experience I
+HIM4226C - ICD Diagnosis Coding
+HIM4243 - Value Based Reimbursement
+HIM4256C - Outpatient Procedural Coding and Reimbursement
+HIM4344C - Health Information Department Management
+HIM4508C - Quality Management
+HIM4624 - Health Data Management
+HIM4656C - Health Information Management Systems
+HIM4676 - Professional Development and Issues in Health Information Management
+HIM4726 - ICD Procedure Coding
+HIM4816C - Professional Practice Experience II
+HIM4838 - Management Affiliation
+HIM4998 - Internship Orientation
+HIS3065 - Public History: Principles & Techniques
+HIS3081 - History Museums & Digital Spaces
+HIS3090 - Introduction to Historic Preservation
+HIS3172H - Honors Advanced Documentary Workshop
+HIS3462 - History of Science
+HIS3600 - Professionalizing History Majors
+HIS3930H - ST: Honors The City as Text
+HIS3949 - Cooperative Education in History
+HIS4070 - Oral History
+HIS4150 - History and Historians
+HIS4166 - Spatial Histories, Digital Storytelling
+HIS4323 - History of the Future
+HIS4490 - History of Medicine
+HIS4944 - Internship in Public History
+HIS4959 - History Portfolio
+HIS4970H - Honors Undergraduate Thesis
+HLP2701 - Peer Education Training
+HSA2117 - Civic Engagement in the US Healthcare System
+HSA3012 - Issues & Trends in Public Health
+HSA3104 - Health Services Administration Cornerstone
+HSA3111 - U.S. Health Care Systems
+HSA3170 - Health Care Finance
+HSA3222 - Long Term Care and Administration
+HSA3423 - Health Law
+HSA3430 - Health Care Economics
+HSA4003 - The Patient Experience from an Administrator's Perspective
+HSA4109 - Health Insurance and Managed Care
+HSA4180 - Organization & Management for Health Agencies I
+HSA4184 - Organization & Management for Health Agencies II
+HSA4191 - Fundamentals of Health Information Technology
+HSA4220 - Long Term Patient Management
+HSA4502 - Risk Management Systems
+HSA4702 - Health Sciences Research Methods
+HSA4850 - Health Services Administration Internship
+HSA4853 - Internship Orientation
+HSA4939 - Health Services Administration Capstone
+HSC2000 - Introduction to Careers in Health Professions
+HSC2524 - Introduction to Human Disease
+HSC3102 - Foundations of Health Behavior
+HSC3110 - Medical Self Assessment
+HSC3147 - Introduction to Pharmacology
+HSC3211 - Preventive Health Care
+HSC3432 - Occupational Safety for the Health Care Professional
+HSC3537 - Medical Terminology
+HSC3559 - Disabilities in American Society
+HSC3593 - HIV Disease: A Human Concern
+HSC4008 - Professional Development in Health Professions
+HSC4158 - Medical Pharmacology I
+HSC4159 - Medical Pharmacology II
+HSC4201 - Community Health
+HSC4500 - Epidemiology
+HSC4501 - Epidemiology of Chronic Diseases
+HSC4553 - Concepts in Pathophysiological Diagnosis
+HSC4555 - Pathophysiology I
+HSC4558 - Pathophysiology II
+HSC4564 - Health Care Needs of the Aging Population
+HSC4572 - Clinical Nutrition
+HSC4652 - Health Law and Ethics
+HSC4703 - Clinical Documentation for Health Care Professions
+HSC4730 - Applied Health Research Methodology
+HSC4813 - Instructional Experiences in Health Sciences
+HSC4930 - Health Sciences Seminar
+HSC4943 - Health Sciences Internship
+HUM2020 - Encountering the Humanities
+HUM2020H - Honors Encountering the Humanities
+HUM2210 - Studies in Culture: Ancient to 17th Century
+HUM2230 - Studies in Culture: 17th Century to Present
+HUM3252 - Contemporary Humanities
+HUM3255 - Modern Humanities
+HUM3307 - Memory and Testimony
+HUM3320 - Contemporary Multicultural Studies
+HUM3326 - Theories of Sex and Gender in Humanities
+HUM3397 - Environmental Humanities
+HUM3401 - Asian Humanities
+HUM3402 - East Asian Folklore and Popular Culture
+HUM3404 - Asian American Studies
+HUM3419H - Honors Islamic Thought and Culture
+HUM3423 - African Humanities
+HUM3431 - Ancient Humanities
+HUM3435 - Medieval Humanities
+HUM3460 - Latin American Humanities
+HUM3467 - Latinx Cultural Expressions
+HUM3482 - Native American Humanities
+HUM3800 - Research Methods in Humanities
+HUM3805 - Critical Theory in the Humanities
+HUM3806 - Critical Race Theory
+HUM3830 - Introduction to Digital Humanities
+HUM4301 - The Classical Ideal
+HUM4330 - Performance Theory
+HUM4381 - Race and Technology
+HUM4392 - Form and Fashion
+HUM4394 - Place and Space
+HUM4459 - American Cultural Studies in Humanities
+HUM4823 - Queer Theory in the Humanities
+HUM4826 - Postcolonial Theory
+HUM4931 - Key Figures in the Humanities & Cultural Studies
+HUM4933 - Senior Research Seminar
+HUM4934 - Key Concepts in Humanities & Cultural Studies
+HUN2201 - Fundamentals of Human Nutrition
+HUN3011 - Human Nutrition
+HUN3013 - Nutrition Concepts and Issues in the Food Service Industry
+IDC2141 - Introduction to Data Science
+IDH1920H - Honors Symposium
+IDH1921H - Honors Symposium II
+IDH3101H - Honors Cultural Traditions of India
+IDH3600H - Honors Case Studies in Ethics
+IDH4030H - Honors Windows To The World
+IDS3053 - Interdisciplinary Research Methods
+IDS3396 - Embracing Disability
+IDS3635 - Critical Information Literacy for Research Assignments and Beyond
+IDS3933 - Cornerstone Experience
+IDS4204C - Advanced Topics on Energy and Sustainability
+IDS4602 - Reviving the Past: Researching Lost Communities
+IDS4687 - Interdisciplinary Communication
+IDS4934 - Capstone Experience
+IDS4939 - Senior Seminar
+IDS4947 - Internship
+IHS4950 - Interdisciplinary Projects in Health Professions
+IHS4952 - Clinical Shadowing Abroad for Health Professions
+INP3004 - Industrial/Organizational Psychology
+INP3004H - Honors Industrial/Organizational Psychology
+INP3253 - Performance Appraisal and Job Coaching
+INP3951 - Industrial/Organizational Field Work
+INP4313 - Organizational Psychology
+INP4319 - Occupational Health Psychology
+INP4380 - Psychology of Teamwork
+INR2002 - International Relations-Theory and Practice
+INR3016 - Global Political Issues
+INR3250 - Politics of Pan-Africanism
+INR3253 - International Politics of Africa
+INR4008 - Global Perspectives
+INR4011 - Politics of Globalization
+INR4030 - Diplomacy
+INR4030H - Honors Diplomacy
+INR4035 - International Political Economy
+INR4054 - Global Politics of Energy
+INR4060 - Causes of War
+INR4063 - The Cold War
+INR4074 - Immigration Policy
+INR4075 - Human Rights Policy
+INR4076 - Global Drug Policy
+INR4084 - Politics of International Terrorism
+INR4084H - Honors Politics of International Terrorism
+INR4085 - Women, Gender, and Globalization
+INR4102 - American Foreign Policy
+INR4104 - Topics and Cases in American Foreign Policy
+INR4114 - American Security Policy
+INR4115 - Strategic Weapons and Arms Control
+INR4224 - Contemporary International Politics of Asia
+INR4225 - The Vietnam War
+INR4243 - International Politics of Latin America
+INR4274 - International Politics of the Middle East
+INR4304 - Issues in International Public Policy
+INR4335 - Coercion in International Politics
+INR4350 - Global Environmental Politics
+INR4351 - International Environmental Law
+INR4360 - The Intelligence Process
+INR4363 - Intelligence Analysis and Reporting
+INR4364H - Honors: The Intelligence Community
+INR4401 - International Law
+INR4404 - Space Law
+INR4502 - International Organizations
+INR4603 - International Relations Theory
+INR4714 - Politics of International Trade Policy
+INR4743 - Military Power and Effectiveness
+INR4744 - Militaries in World Politics
+INR4764 - Cyberwarfare Policy
+INR4764H - Honors Cyberwarfare Policy
+INR4765 - Emerging Space Powers
+INR4774 - Military Space Policy
+INR4933H - Honors Human Trafficking
+INR4942 - Intelligence Studies Capstone
+ISC2054 - STEM Seminar I
+ISC2055 - STEM Seminar II
+ISC2215 - Interdisciplinary Applications of Calculus I
+ISC2216 - Interdisciplinary Applications of Calculus II
+ISC3417 - Computational Nanoscience
+ISC3424 - Chemical and Life Science Nanotechnology
+ISC3471 - Nanoscience and Nanotechnology
+ISC4241 - Data Science I
+ISC4242 - Data Science II
+ISC4311 - Predictive Analytics
+ISC4323C - Praxis for Data Science
+ISC4405 - Fundamentals of Discipline-Based Education Research (DBER) in STEM Disciplines
+ISC4551 - Data Graphics and Visualization
+ITA1120C - Elementary Italian Language and Civilization I
+ITA1121C - Elementary Italian Language and Civilization II
+ITA2010C - Italian for Spanish Speakers
+ITA2200 - Intermediate Italian Language and Civilization I
+ITA2201 - Intermediate Italian Language and Civilization II
+ITA3215 - Azione! Italian through Film
+ITA3420 - Italian Composition
+ITA3501 - Made in Italy: A Story of Excellence
+ITA3502 - Canta che ti passa!: Italian through Music
+ITA3564 - Modern Italian Culture
+ITA3620 - Cucina nostra: Italian through Food
+ITA3760 - Advanced Italian Oral Communication
+ITT3301 - Italian & Italian American Women's Literature
+ITT3443 - Dante's Inferno
+ITT3480 - Italian Literature in Translation
+ITT4300 - From Italy to America
+ITT4956 - Study Abroad: Modern and Contemporary Italian Culture
+ITT4957H - Honors Italian Literature in Translation
+ITW3100 - Survey of Italian Literature I
+ITW3101 - Survey of Italian Literature II
+ITW3373 - The Modern Italian Short Story
+JOU2100 - News Writing
+JOU3004 - History of American Journalism
+JOU3015 - Principles of Journalism
+JOU3101C - Advanced Reporting
+JOU3184C - Metro Reporting
+JOU3201 - Editing I
+JOU3202 - Editing II
+JOU3301 - Journalism Readings
+JOU3313C - Sports Reporting
+JOU3320 - News Producing
+JOU3510 - Magazine Publishing
+JOU3951 - Knightly Latino
+JOU4181 - Public Affairs Reporting
+JOU4300 - Feature Writing
+JOU4308 - Freelance Writing
+JOU4340C - Online Journalism I
+JOU4342C - Multimedia Journalism
+JOU4447 - Magazine Editing and Production
+JOU4700 - Journalism Ethics
+JOU4941 - Internship
+JOU4950 - Senior Capstone in Journalism
+JPN1120C - Elementary Japanese Language and Civilization I
+JPN1121C - Elementary Japanese Language and Civilization II
+JPN1421 - Japanese Language through Anime, Gaming and Technology
+JPN2200 - Intermediate Japanese Language and Civilization I
+JPN2201 - Intermediate Japanese Language and Civilization II
+JST3005 - Tenets of Judaism
+JST3100 - The Hebrew Bible as Literature
+JST3120 - Hebrew Scriptures
+JST3121 - Classic Texts of Judaism
+JST3125 - The Book of Job
+JST3126 - Romantic Love in the Bible
+JST3144 - Dead Sea Scrolls
+JST3149 - The Jewish View of Jesus
+JST3190 - Social Justice & the Prophets
+JST3210 - Kabbalah: Jewish Mysticism
+JST3401 - Jewish People in Antiquity
+JST3402 - Jewish People in the Common Era
+JST3415 - American Jewish History
+JST3424 - Biblical Archaeology
+JST3450 - Modern Jewish Experience
+JST3481 - 20th Century Jewish History and Thought
+JST3510 - Notable Women in Jewish History
+JST3523 - Judaism and Islam
+JST3550 - Introduction to Modern Judaism
+JST3551 - The Holy and the Profane: The Introduction of Secularism into Modern Judaism
+JST3600 - Judaism and Science
+JST3620 - Contemporary Jewish Ethics and Morality
+JST3701 - History of the Holocaust
+JST3751 - Literature of the Holocaust
+JST3803 - The Israeli Experience in Short Stories
+JST3820 - Modern Israeli Culture
+JST3821 - Israel: Start-Up Nation
+JST4160 - History of the Talmud: Law and Ethics
+KOR1120C - Elementary Korean Language and Civilization I
+KOR1121C - Elementary Korean Language and Civilization II
+KOR2200 - Intermediate Korean I
+KOR2201 - Intermediate Korean II
+LAE3414 - Literature for Children
+LAE4314 - Language Arts in the Elementary School
+LAE4342 - Programs in Teaching Language and Composition
+LAE4360 - English Instructional Analysis
+LAE4361 - Literacy Strategies in a Digital Age for Middle and High School
+LAE4464 - Survey of Adolescent Literature
+LAE4466 - Canon, Young Adult Literature and the English Language Arts Curriculum
+LAH3130 - Early Latin America
+LAH3200 - Modern Latin America
+LAH3470 - History of the Caribbean
+LAH4136 - Colonial Florida
+LAH4461 - History of Puerto Rico
+LAH4480 - History of Cuba
+LAH4503 - History of South America
+LAH4512 - Modern Argentina
+LAH4630 - History of Modern Brazil
+LAH4738 - Urban Design of Latin America
+LAH4780 - Poverty and Development in Latin America
+LAS3002 - Topics in Latin American Studies
+LAS3026 - Cuba: A Collective Portrait
+LAS3101 - Latin American Popular Culture
+LAS3320 - Brazilian Culture
+LAS4023 - African Caribbean Experience
+LAS4323 - Power, Racial Discrimination, and Globalization in the Afro-Brazilian Diaspora
+LAS4910 - LAS Capstone
+LDR2001 - Foundations of Leadership
+LDR2002 - Intermediate Foundations of Leadership
+LDR2262 - Focused Volunteer Community Service
+LDR3103 - Multi-disciplinary Perspectives in Leadership
+LDR3115 - Contemporary Issues in Leadership
+LDR3215 - Leadership Through Service: An Advanced Leadership Experience
+LDR3950 - Leadership in Action: Capstone Experience for LEAD Scholars
+LDR4115 - Leadership Theories & Concepts
+LDR4130 - Leadership Skills for the 21st Century
+LIN3010 - Principles of Linguistics
+LIN3673 - Rhetorical Grammar
+LIN3713 - Language Science
+LIN3716 - Language Development
+LIN3716L - Language Development Lab
+LIN4105 - History of the English Language
+LIN4660 - Linguistics and Literature
+LIN4680 - Modern English Grammar
+LIN4801 - Language and Meaning
+LIT2110 - World Literature I
+LIT2120 - World Literature II
+LIT3082 - Continental European Fiction Since 1900
+LIT3132 - Legend & Literature of King Arthur
+LIT3192 - Caribbean Literature
+LIT3192H - Honors Caribbean Literature
+LIT3202 - Death and Dying
+LIT3202H - Honors Death and Dying
+LIT3206 - Place and Space in Literature
+LIT3206H - Honors Place and Space in Literature
+LIT3212 - Research & Writing About Literature
+LIT3313 - Science Fiction
+LIT3313H - Honors Science Fiction Literature
+LIT3368 - Magical Realism in Literature
+LIT3381 - Women Writers of Color
+LIT3383 - Women in Literature
+LIT3383H - Honors Women in Literature
+LIT3393 - Literature and Culture of Trauma
+LIT3394 - Literature of AIDS
+LIT3394H - Honors Literature of AIDS
+LIT3437 - Global Literature of Environmental Justice
+LIT3482 - Literature & Popular Culture
+LIT3482H - Honors Literature & Popular Culture
+LIT3521 - Early Queer Literature
+LIT3523 - Contemporary Topics in Queer Literature
+LIT3605 - Literature and War
+LIT3607 - Mad, Bad, and Dangerous: Roles and Images of Writers in Society
+LIT3714 - Literary Modernism
+LIT3823 - Hispanic Women Writers
+LIT3833 - Modern Asian Literature
+LIT3835 - Translated Modern Chinese Novels
+LIT3905 - Directed experience in Literature
+LIT3931 - Topics in World Literature
+LIT3932 - Topics in Popular Fiction
+LIT3933 - Literature and Law
+LIT3933H - Honors Literature and Law
+LIT4034 - Contemporary Poetry In English
+LIT4043 - Modern Drama As Literature
+LIT4184 - Irish Literature
+LIT4233 - Postcolonial Theory and Literature
+LIT4244 - World Authors
+LIT4303 - Post-World War II Fiction
+LIT4374 - The Literature of the Hebrew and Christian Bibles
+LIT4374H - Honors The Literature of the Hebrew and Christian Bibles
+LIT4433 - Literature of Science and Technology
+LIT4554 - Advanced Feminist Theories
+MAA4226 - Advanced Calculus I
+MAA4227 - Advanced Calculus II
+MAA4402 - Introduction to Complex Variables
+MAA4934 - Topics in Analysis
+MAC1105C - College Algebra
+MAC1114C - College Trigonometry
+MAC1140C - Pre-Calculus Algebra
+MAC2147 - Mathematics for Calculus
+MAC2233 - Concepts of Calculus
+MAC2253 - Applied Calculus
+MAC2311C - Calculus with Analytic Geometry I
+MAC2311K - Honors Calculus with Analytic Geometry I
+MAC2312 - Calculus with Analytic Geometry II
+MAC2312H - Honors Calculus with Analytic Geometry II
+MAC2313 - Calculus with Analytic Geometry III
+MAC2313H - Honors Calculus with Analytic Geometry III
+MAD2104 - Foundations of Discrete Math
+MAD4203 - Introduction to Combinatorics
+MAD4301 - Introduction to Graph Theory
+MAD4934 - Topics in Discrete Mathematics
+MAE2801 - Elementary School Mathematics
+MAE3310 - Elementary Mathematics for Teaching I
+MAE3311 - Elementary Mathematics for Teaching II
+MAE3366 - Middle and High School Mathematics for Teaching
+MAE4300 - Math Curriculum and Assessment in Early Childhood
+MAE4326 - How Children Learn Mathematics
+MAE4333 - Teaching Geometry in the Secondary Schools
+MAE4339 - Teaching Algebra in Secondary Schools
+MAE4360 - Mathematics Instructional Analysis
+MAE4383 - Teaching Secondary Mathematics with Technology
+MAE4634 - Programs in Teaching of Mathematics
+MAN3025 - Management of Organizations
+MAN3025H - Honors Management of Organizations
+MAN3301 - Strategic Human Resource Management
+MAN3302 - Talent Management
+MAN4034 - Careers in Global Perspective
+MAN4046 - Teamwork, Collaboration, and Group Dynamics
+MAN4143 - Leadership Development
+MAN4240 - Organizations: Theory and Behavior
+MAN4320 - Human Resources Recruitment and Selection
+MAN4329 - Business Analytics in Human Resource Management
+MAN4330 - Compensation Administration
+MAN4350 - Performance Management
+MAN4441 - Conflict Resolution and Negotiation
+MAN4580 - Enterprise Project Management
+MAN4583 - Project Management
+MAN4600 - International Management
+MAN4720 - Strategic Management
+MAN4720H - Honors Strategic Management
+MAN4737 - Integrated Management
+MAN4941 - Management Internship
+MAP2302 - Ordinary Differential Equations I
+MAP2302H - Honors Differential Equations
+MAP4103 - Mathematical Modeling I
+MAP4112 - Mathematical Foundations of Machine Learning and Artificial Intelligence
+MAP4113 - Probability, Random Processes and Applications
+MAP4153 - Vector and Tensor Analysis
+MAP4171 - Optimization
+MAP4191 - Mathematical Modeling of Data
+MAP4303 - Ordinary Differential Equations II
+MAP4341 - Introduction to Partial Differential Equations
+MAP4342 - Partial Differential Equations II
+MAP4371 - Numerical Methods for Differential Equations
+MAP4384 - Numerical Methods for Computational Sciences
+MAP4413 - Fourier Analysis
+MAP4484 - Mathematical Biology
+MAP4494 - Mathematical Modeling in Biology
+MAP4501 - Lie-theoretic Methods in Geometric Mechanics
+MAP4640 - Financial Mathematics
+MAP4934 - Topics in Applied Mathematics
+MAR3023 - Marketing
+MAR3023H - Honors Marketing
+MAR3203 - Supply Chain and Operations Management
+MAR3203H - Honors Supply Chain and Operations Management
+MAR3323 - Integrated Marketing Communication
+MAR3391 - Professional Selling
+MAR3391H - Honors Professional Selling
+MAR3403 - Sales Force Management
+MAR3407 - Integrated Marketing and Sales
+MAR3503 - Consumer Behavior
+MAR3611 - Marketing Analysis and Research Methods
+MAR3613 - Marketing Research
+MAR3615 - Marketing Analysis
+MAR3641 - Marketing Intelligence
+MAR3721 - Digital Media Marketing
+MAR3765 - Entrepreneurial Marketing
+MAR4156 - International Marketing
+MAR4231 - Retailing Management
+MAR4413C - Strategic Issues in Sales
+MAR4415C - Advanced Professional Selling
+MAR4418 - Strategic Sales Force Management
+MAR4711 - Sport Marketing
+MAR4712 - Healthcare Marketing
+MAR4715 - Entertainment Marketing
+MAR4803 - Marketing Management
+MAR4804 - Marketing Strategy
+MAR4832 - Product Management
+MAR4841 - Services Marketing
+MAR4934 - Contemporary Marketing Topics in Florida
+MAR4941 - Marketing Internship
+MAS3105 - Matrix and Linear Algebra
+MAS3105H - Honors Matrix and Linear Algebra
+MAS3106 - Linear Algebra
+MAS3203 - Introduction to Number Theory
+MAS4301 - Abstract Algebra I
+MAS4302 - Abstract Algebra II
+MAS4732 - Computational Algebra
+MAS4934 - Topics in Algebra
+MAT1033C - Intermediate Algebra
+MAT3937 - Techniques of Problem Solving
+MCB1000 - The Invisible World
+MCB1310 - Introduction to Biotechnology and Genetic Engineering
+MCB2004C - Microbiology for Health Professionals
+MCB3020C - General Microbiology
+MCB3020K - Honors General Microbiology
+MCB3202 - Principles of Infectious Disease
+MCB3203 - Pathogenic Microbiology
+MCB3203L - Pathogenic Microbiology laboratory
+MCB3316H - Honors Biotechnology and Genetic Engineering Seminar
+MCB3903 - Explorations in Biomedical Science Research
+MCB3933 - Biomedical Sciences Careers
+MCB4114C - Microbial Genomics
+MCB4201 - Microbial Stress Response
+MCB4204 - Cellular Microbiology: Host-Pathogen Interactions
+MCB4207 - Infectious Processes
+MCB4224 - Molecular Biology of Diseases
+MCB4276 - Epidemiology of Infectious Diseases
+MCB4312 - Molecular Biotechnology
+MCB4404 - Bacterial Genetics and Physiology
+MCB4410 - Cellular Metabolism
+MCB4414 - Physiology and Biochemistry of Microbes
+MCB4503C - Virology
+MCB4603 - Environmental Microbiology
+MCB4653 - Applied Industrial Microbiology
+MCB4720 - Industrial Perspectives Seminar
+MCB4721C - Methods in Biotechnology
+MCB4915 - Program for Undergraduate Research Experience
+MCB4920C - Group-Effort Applied Research
+MCB4920K - Honors Group Effort Applied Research (GEAR)
+MCB4940 - Methodology in Biomedical Sciences
+MET2104 - The Earth's Climate
+MGF1106 - Finite Mathematics
+MGF1107 - Explorations in Mathematics
+MGF1130  - Mathematical Thinking
+MGF1131 - Mathematics in Context
+MHF3302 - Logic and Proof in Mathematics
+MHF4404 - History of Mathematics
+MHF4934 - Topics in Foundations and History of Mathematics
+MHS2090 - Introduction to Human Services
+MHS2330 - Career Planning I
+MHS2331 - Career Planning II
+MHS2441 - Couples, Families and Intimate Relationships
+MHS3052 - Helping Skills for Human Service Providers
+MHS3332 - Career Planning III
+MHS3426 - Diversity Issues in Human Services
+MHS4843 - Internship in Human Services
+MLS3220C - Techniques in Clinical Microscopy
+MLS3305 - Hematology
+MLS3305L - Hematology Lab
+MLS3705 - Concepts in Education/Management
+MLS4075L - Clinical Applications of Laboratory Automation
+MLS4334 - Hemostasis
+MLS4430C - Clinical Microbiology I
+MLS4460C - Clinical Microbiology II
+MLS4505 - Immunodiagnostics
+MLS4550C - Clinical Immunohematology
+MLS4625 - Advanced Clinical Chemistry I
+MLS4625L - Advanced Clinical Chem I Lab
+MLS4630 - Clinical Chemistry II
+MLS4830L - Clinical Chemistry Laboratory Practicum
+MLS4831L - Immunohematology Laboratory Practicum
+MLS4832L - Interpretive & Practical Hematology
+MLS4833L - Microbiology Laboratory Practicum
+MLS4910 - Introduction to Clinical Research
+MLS4933 - MLS Senior Seminar
+MMC2004 - Mass Media
+MMC3200 - Mass Communication Law
+MMC3200H - Honors Mass Communication Law
+MMC3203 - Media Ethics
+MMC3420 - Mass Media Research Methods
+MMC3630 - Social Media as Mass Communication
+MMC4263 - New Media Technologies
+MMC4300 - International Media
+MMC4303 - Hispanics in Media in the US
+MMC4411 - Ad-PR Campaigns
+MMC4602 - Contemporary Media Issues
+MSL1001C - Foundations of Officership
+MSL1002C - Basic Leadership
+MSL2101C - Individual Leadership Studies
+MSL2102C - Leadership and Teamwork
+MSL3201C - Leadership and Problem Solving
+MSL3202C - Leadership and Ethics
+MSL4301C - Leadership and Management
+MSL4302C - Officership
+MTG4212 - Modern Geometries
+MTG4254 - Introduction to Differential Geometry
+MTG4302 - Introduction to Topology
+MTG4324 - Topological Data Analysis
+MTG4934 - Topics in Topology and Geometry
+MUC1101C - Composition for Non-Composition Music Majors I
+MUC1201C - Applied Composition I
+MUC2104C - Composition for Non-Composition Music Majors II
+MUC2202C - Applied Composition II
+MUC3105C - Composition III
+MUC4106C - Composition IV
+MUC4610 - Film Music Composition
+MUC4634 - Video Game Music Composition
+MUC4950 - Composition Recital
+MUC4971 - Composition Thesis
+MUE2040 - Introduction to Music Education
+MUE2211 - Early Childhood Music and Movement
+MUE2346 - Vocal Techniques
+MUE2440 - String Techniques
+MUE2450 - Woodwind Techniques I
+MUE2460 - Brass Techniques
+MUE2470 - Percussion Techniques
+MUE3333 - Music Learning Theory and Assessment
+MUE3353 - General Music Literature and Techniques
+MUE3451 - Woodwind Techniques II
+MUE3461 - Brass Techniques II
+MUE3693 - Technology in Music Education
+MUE3942 - Music Internship I
+MUE4311 - Elementary School Music Methods
+MUE4331 - Secondary Choral Methods I
+MUE4332 - Secondary Instrumental Methods I
+MUE4335 - Secondary Choral Methods II
+MUE4337 - Secondary Instrumental Methods II
+MUE4393 - Music and Students with Exceptionalities
+MUE4791 - BME ePortfolio
+MUE4933 - Seminar in General Music
+MUE4943 - Music Internship II
+MUG3104 - Basic Conducting
+MUG3202 - Choral Conducting and Materials
+MUG3302 - Instrumental Conducting and Materials
+MUH2017 - Survey of Rock Music
+MUH2017H - Honors Survey of Rock Music
+MUH2019 - American Popular Music, 1840s-present
+MUH2021 - Survey of Country Music
+MUH3211 - Music History and Literature I
+MUH3212 - Music History and Literature II
+MUH3633 - Music in the United States
+MUH4322 - Medieval and Renaissance Music
+MUH4341 - Music of the Baroque
+MUH4351 - Eighteenth-Century Music
+MUH4361 - Music of the 19th Century
+MUH4371 - Music Since 1900
+MUH4814 - Jazz Styles and Analysis
+MUL2010 - Enjoyment of Music
+MUL2010H - Honors Enjoyment of Music
+MUL2014 - Introduction to Music History and Literature
+MUL2016 - Evolution of Jazz
+MUL2720 - Music of the World
+MUL2721 - Survey of Latin American Music
+MUL3024 - Welcome to the Jungle: Hard Rock
+MUL3385 - Analysis of Hard Rock & Heavy Metal
+MUL3400 - Piano Literature I
+MUL3401 - Piano Literature II
+MUL3463 - Percussion Literature
+MUL3602 - Song Literature
+MUL4437 - String Literature and Pedagogy
+MUL4438 - Guitar Literature and Pedagogy
+MUL4443 - Brass Literature and Pedagogy
+MUL4444 - Woodwind Literature and Pedagogy
+MUL4552 - Band Literature
+MUL4643 - Choral Literature
+MUM3051 - Music Entrepreneurship
+MUN2442 - Percussion/Mallet Ensemble
+MUN3113 - Marching Band
+MUN3123L - Concert Band
+MUN3133 - Symphonic Band
+MUN3143 - Wind Ensemble
+MUN3283 - Symphony Orchestra
+MUN3313 - University Chorus
+MUN3323 - Soprano/Alto Chorus 
+MUN3333 - Tenor/Bass Chorus 
+MUN3343L - Chamber Singers
+MUN3423 - Woodwind Ensemble
+MUN3426 - Saxophone Ensemble
+MUN3427 - Flute Ensemble
+MUN3431L - Brass Quintet
+MUN3433 - Brass Ensemble
+MUN3437 - Trumpet Ensemble
+MUN3443 - Percussion Ensemble
+MUN3444 - Mallet Ensemble
+MUN3453 - Piano Ensemble
+MUN3463 - Instrumental Chamber Music 
+MUN3483 - String Ensemble
+MUN3487 - Guitar Ensemble
+MUN3493 - New Music Ensemble
+MUN3713 - Jazz Ensemble
+MUN3714 - Jazz Combo
+MUN3813 - Steel Drum Ensemble
+MUO3503L - Opera Workshop
+MUS1010 - Music Forum
+MUS1250 - IPA for Singers
+MUS2360C - Introduction to Music Technology
+MUS3254 - Italian and French Lyric Diction
+MUS3255 - German and English Lyric Diction
+MUS3684H - How Music Affects Your Brain
+MUS3953 - Recital Performance I
+MUS4320 - Music Business and Industry
+MUS4674 - Health and Wellness for the Performing Artist
+MUS4900 - Music BA Capstone Project
+MUS4905 - Directed Experience
+MUS4923 - Music Performance Workshop
+MUS4931 - Topics in Music Studies
+MUS4954 - Recital Performance II
+MUT1004 - Fundamentals of Music I
+MUT1121 - Music Theory and Musicianship I
+MUT1122 - Music Theory and Musicianship II
+MUT2126 - Music Theory and Musicianship III
+MUT2127 - Music Theory and Musicianship IV
+MUT3170 - Jazz Theory I
+MUT3171 - Jazz Theory II
+MUT3923 - Jazz Workshop
+MUT4031 - Review of Music Theory
+MUT4311 - Orchestration
+MUT4356 - Jazz Arranging and Orchestration I
+MUT4401 - Counterpoint
+MUT4571 - Analysis of Twentieth-Century Music
+MVB1211 - Secondary Trumpet
+MVB1212 - Secondary French Horn
+MVB1213 - Secondary Trombone
+MVB1214 - Secondary Euphonium
+MVB1215 - Secondary Tuba
+MVB1411 - Trumpet I
+MVB1412 - French Horn I
+MVB1413 - Trombone I
+MVB1414 - Euphonium I
+MVB1415 - Tuba I
+MVB2421 - Trumpet II
+MVB2422 - French Horn II
+MVB2423 - Trombone II
+MVB2424 - Euphonium II
+MVB2425 - Tuba II
+MVB3431 - Trumpet III
+MVB3432 - French Horn III
+MVB3433 - Trombone III
+MVB3434 - Euphonium III
+MVB3435 - Tuba III
+MVB4441 - Trumpet IV
+MVB4442 - French Horn IV
+MVB4443 - Trombone IV
+MVB4444 - Euphonium IV
+MVB4445 - Tuba IV
+MVJ1010 - Jazz Piano I
+MVJ1213 - Jazz Guitar I
+MVJ1214 - Jazz Bass I
+MVJ1219 - Jazz Drum Set I
+MVJ2220 - Jazz Piano II
+MVJ2223 - Jazz Guitar II
+MVJ2224 - Jazz Bass II
+MVJ2229 - Jazz Drum Set II
+MVJ3230 - Jazz Piano III
+MVJ3233 - Jazz Guitar III
+MVJ3234 - Jazz Bass III
+MVJ3339 - Jazz Drum Set III
+MVJ4240 - Jazz Piano IV
+MVJ4243 - Jazz Guitar IV
+MVJ4244 - Jazz Bass IV
+MVJ4349 - Jazz Drum Set IV
+MVK1111 - Class Piano I
+MVK1112 - Class Piano II
+MVK1211 - Secondary Piano
+MVK1411 - Piano I
+MVK2121 - Class Piano III
+MVK2122 - Class Piano IV
+MVK2421 - Piano II
+MVK3431 - Piano III
+MVK4441 - Piano IV
+MVK4640 - Piano Pedagogy I
+MVP1211 - Secondary Percussion
+MVP1411 - Percussion I
+MVP2421 - Percussion II:
+MVP3431 - Percussion III
+MVP3630 - Percussion Pedagogy
+MVP4441 - Percussion IV
+MVS1211 - Secondary Violin
+MVS1212 - Secondary Viola
+MVS1213 - Secondary Cello
+MVS1214 - Secondary Bass
+MVS1216 - Secondary Guitar
+MVS1411 - Violin I
+MVS1412 - Viola I
+MVS1413 - Cello I
+MVS1414 - Bass I
+MVS1415 - Harp I
+MVS1416 - Guitar I
+MVS2421 - Violin II
+MVS2422 - Viola II
+MVS2423 - Cello II
+MVS2424 - Bass II
+MVS2425 - Harp II
+MVS2426 - Guitar II
+MVS3431 - Violin III
+MVS3432 - Viola III
+MVS3433 - Cello III
+MVS3434 - Bass III
+MVS3435 - Harp III
+MVS3436 - Guitar III
+MVS4346 - Guitar IV
+MVS4441 - Violin IV
+MVS4442 - Viola IV
+MVS4443 - Cello IV
+MVS4444 - Bass IV
+MVS4445 - Harp IV
+MVV1411 - Voice I
+MVV1873 - Secondary Voice
+MVV2421 - Voice II
+MVV3431 - Voice III
+MVV4441 - Voice IV
+MVV4640 - Voice Pedagogy
+MVW1211 - Secondary Flute
+MVW1212 - Secondary Oboe
+MVW1213 - Secondary Clarinet
+MVW1214 - Secondary Bassoon
+MVW1215 - Secondary Saxophone
+MVW1411 - Flute I
+MVW1412 - Oboe I
+MVW1413 - Clarinet I
+MVW1414 - Bassoon I
+MVW1415 - Saxophone I
+MVW2421 - Flute II
+MVW2422 - Oboe II
+MVW2423 - Clarinet II
+MVW2424 - Bassoon II
+MVW2425 - Saxophone II
+MVW3431 - Flute III
+MVW3432 - Oboe III
+MVW3433 - Clarinet III
+MVW3434 - Bassoon III
+MVW3435 - Saxophone III
+MVW4441 - Flute IV
+MVW4442 - Oboe IV
+MVW4443 - Clarinet IV
+MVW4444 - Bassoon IV
+MVW4445 - Saxophone IV
+NSP1800 - Nursing as a Profession
+NSP4148C - Healthcare Simulation: An Interdisciplinary Simulation Experience
+NSP4335 - Nursing Care of the High-Risk Newborn
+NSP4425 - Women's Health Issues
+NSP4495 - Emergency Department Nursing
+NSP4550 - Family and Interpersonal Violence: Perspectives for Nurses
+NSP4685 - Death & Dying: Nursing Considerations
+NUR3028 - Essentials of Nursing Practice
+NUR3028L - Essentials of Nursing Practice Lab
+NUR3065 - Health Assessment
+NUR3065L - Health Assessment Lab
+NUR3125 - Pathophysiology for Nursing Practice
+NUR3145 - Pharmacology for Nursing Practice
+NUR3165 - Nursing Research
+NUR3165H - Honors Nursing Research
+NUR3167 - Accelerated Nursing Research Seminar
+NUR3225 - Nursing Care of the Adult I
+NUR3225L - Nursing Care of the Adult I: Clinical Practice:
+NUR3445 - Nursing Care of Families
+NUR3445L - Nursing Care of Families Clinical
+NUR3616 - Health Promotion Across the Lifespan
+NUR3616L - Health Promotion Across the Lifespan Clinical
+NUR3755L - Essentials of Nursing Practice Clinical
+NUR3795 - Principles of Oncology Nursing
+NUR3805 - Dimensions of Professional Nursing Practice
+NUR3806 - Professional Socialization Seminar
+NUR3816 - Professional Nurse Seminar
+NUR3826 - Bioethics in Nursing
+NUR3826H - Honors Bioethical and Legal Issues in Health Care
+NUR3936 - International Perspectives of Nursing and Health Care
+NUR4177 - Holistic Nursing
+NUR4178 - Complementary Therapies: Options for Integrative Nursing Practice
+NUR4197 - Genetics and Genomics in Nursing Practice
+NUR4227 - Nursing Care of the Adult II
+NUR4227L - Nursing Care of the Adult II: Clinical Practice
+NUR4257 - Introduction to Critical Care Nursing
+NUR4286 - Gerontologic Nursing
+NUR4493 - Perinatal Loss and Grief: Nursing Interventions
+NUR4516 - Crisis Intervention
+NUR4535 - Psychiatric Mental Health Nursing
+NUR4535L - Psychiatric Mental Health Clinical
+NUR4604L - Practicum in Community and Public Health Nursing for RNs
+NUR4637 - Public and Community Health Nursing
+NUR4637L - Public Health Nursing Clinical
+NUR4760 - Principles of Pain Management
+NUR4765 - Rehabilitation Nursing: Principles and Practice
+NUR4828 - Nursing Leadership, Management and Role Transition
+NUR4829 - Accelerated Transitioning into Professional Practice as a Leader
+NUR4837 - Health Care Issues, Policy, and Economics
+NUR4903H - Honors Directed Readings I
+NUR4906 - Independent Study
+NUR4945L - Nursing Practicum
+NUR4970H - Honors Thesis I
+NUR4971H - Honors Thesis or Project Works
+OCE3008 - Oceanography
+OSE2050 - Introduction to Photonics Engineering Design
+OSE3043 - Analytical Methods for Optics
+OSE3052 - Foundations of Photonics
+OSE3052L - Foundations of Photonics Laboratory
+OSE3053 - Electromagnetic Waves for Photonics
+OSE3200 - Geometric Optics
+OSE3200L - Geometric Optics Lab
+OSE3490 - Nanophotonics
+OSE4240 - Introduction to Optical Design
+OSE4410 - Optoelectronics
+OSE4410L - Optoelectronics Laboratory
+OSE4470 - Fiber-Optic Communications
+OSE4470L - Fiber-Optic Communications Laboratory
+OSE4520 - Laser Engineering
+OSE4520L - Laser Engineering Laboratory
+OSE4721 - Biophotonics
+OSE4830 - Imaging and Display
+OSE4830L - Imaging and Display Laboratory
+OSE4912 - Directed Independent Research
+OSE4930 - Frontiers of Optics and Photonics
+OSE4951 - Senior Design I
+OSE4952 - Senior Design II
+OSE4953 - Senior Design Double Major ECE
+PAD2007 - Introduction to Leadership and Public Service: A Central Florida Experience
+PAD2008 - Public Affairs Careers
+PAD3003 - Public Administration in American Society
+PAD3040 - Ethics and Values in Public Administration
+PAD3330 - Urban and Regional Planning
+PAD3733 - Professional Administrative Writing in the Public Sector
+PAD4034 - The Administration of Public Policy
+PAD4104 - Administrative Theory
+PAD4131 - Public Sector Project Management
+PAD4144 - Nonprofit Organizations
+PAD4147 - Resource Development in the Nonprofit Sector
+PAD4148 - Volunteer Management
+PAD4153 - Planning and Improvement for Public Organizations
+PAD4204 - Fiscal Management
+PAD4253 - Community & Economic Development
+PAD4325 - Program Evaluation for Public and Nonprofit Organizations
+PAD4331 - Land Use and Planning
+PAD4334 - Urban Design
+PAD4351 - Issues in Environmental Program Management
+PAD4371 - Capstone: Resiliency in Emergency Management
+PAD4390 - Hazard Mitigation and Preparedness
+PAD4392 - Emergency Management and Homeland Security
+PAD4395 - Disaster Response and Recovery
+PAD4414 - Human Resource Administration
+PAD4712 - Information Systems for Public Managers and Planners
+PAD4720 - Research Methods in Public Administration
+PAD4803 - Issues in Urban Administration
+PAD4822 - Intergovernmental Administration
+PAD4886 - Capstone: Public Service Leadership
+PAD4933H - Planning and Policy Perspectives on Everglades Restoration
+PAD4934 - Capstone: Nonprofit Leadership Seminar
+PAD4941 - Public Administration Internship
+PAD4942 - School of Public Administration Internship Orientation
+PAZ4234 - Zoo and Aquarium Management
+PCB3023 - Molecular Cell Biology
+PCB3044 - Principles of Ecology
+PCB3044H - Honors Principles of Ecology
+PCB3044L - Principles of Ecology Laboratory
+PCB3063 - Genetics
+PCB3063H - Honors Genetics
+PCB3063L - Genetics Laboratory
+PCB3233 - Immunology
+PCB3233L - Immunology Laboratory
+PCB3343L - Principles of Field Ecology
+PCB3354 - Tropical Ecology and Conservation
+PCB3355L - Tropical Marine Biology
+PCB3442 - Aquatic Ecology
+PCB3442H - Honors Aquatic Ecology - Biology of the Amazon
+PCB3522 - Molecular Biology I
+PCB3522H - Honors Molecular Biology I
+PCB3703C - Human Physiology
+PCB3703K - Honors Human Physiology
+PCB4028 - Molecular and Cellular Pharmacology
+PCB4135 - Applied Molecular Cell Biology
+PCB4174 - Foundation of Bio-Imaging Science
+PCB4234 - Cancer Biology
+PCB4264 - Stem Cell Biology
+PCB4280 - Molecular Immunology
+PCB4280H - Honors Molecular Immunology
+PCB4284 - Immunobiology
+PCB4301C - Wetland Ecology & Biogeochemistry
+PCB4315C - Marine Ecology of Florida
+PCB4353 - Florida Ecology, Natural History and Conservation
+PCB4353L - Florida Ecology Lab
+PCB4402 - Disease Ecology & Ecoimmunology
+PCB4408 - Urban Ecology
+PCB4413 - Sensory Ecology
+PCB4462 - GIS for Biologists and Ecologists
+PCB4514 - Epigenetics
+PCB4521 - Tissue Engineering
+PCB4524 - Molecular Biology II
+PCB4524H - Honors Molecular Biology II
+PCB4529C - Experimental Molecular Cell Biology
+PCB4575 - Wildlife Genomics
+PCB4663 - Human Genetics
+PCB4678 - Evolution and Medicine
+PCB4683 - Evolutionary Biology
+PCB4683L - Evolutionary Biology Lab
+PCB4684 - Population Genetics
+PCB4708L - Laboratory Virtual Simulations in Physiology
+PCB4722 - Comparative Animal Nutrition
+PCB4723 - Animal Physiology
+PCB4802 - Comparative Endocrinology
+PCB4805 - Endocrinology
+PCB4808 - Physiology of Reproduction
+PCB4813 - Molecular Aspects of Obesity, Diabetes & Metabolism
+PCB4832 - Cellular and Molecular Basis of Brain Functions
+PCB4833 - Advanced Human Physiology
+PCB4843 - Cellular and Molecular Neuroscience
+PCB4943 - Peer Instruction and Laboratory Occupational Training
+PCO4203 - Interviewing and Counseling
+PEL2011 - Basic Volleyball and Softball
+PEL2111 - Bowling
+PEL2112 - Intermediate Bowling
+PEL2121 - Beginning Golf
+PEL2122 - Intermediate Golf
+PEL2341 - Beginning Tennis
+PEL2342 - Intermediate Tennis
+PEL2640 - Basic Football and Basketball
+PEM2101 - Body Development
+PEM2104 - Personal Fitness and Wellness
+PEM2110 -  Introduction to Mindfulness in Daily Life
+PEM2121C - Yoga
+PEM2122 - Yoga for Performers
+PEM2123C - Intermediate Yoga
+PEM2127C - Pilates
+PEM2131 - Strength Resistance Training
+PEM2134C - Adventure Recreation
+PEM2171 - Aerobics
+PEM2173 - Step Aerobics
+PEM2175 - Country/Western Dance
+PEM2402 - Beginning Brazilian Jiu-Jitsu
+PEM2403 - Intermediate Brazilian Jiu-Jitsu
+PEM2405 - Self Defense for Women and Men
+PEM2431 - Beginning Judo
+PEM2432 - Intermediate Judo
+PEM3940 - Internship
+PEM4941 - Internship
+PEO2011 - Team Sports
+PEO2031 - Individual Sports
+PEO3041 - Games Analysis
+PEO3324 - Coaching Volleyball
+PEO3514C - Coaching Soccer
+PEO3624 - Coaching Basketball
+PEO3644 - Coaching Football
+PET2081 - Wellness, Children and Schools
+PET3097 - Health and Wellness
+PET3137 - Concepts and Practices in Sport and Exercise Science
+PET3510C - Physiologic & Metabolic Basis of Human Movement & Performance
+PET3765 - Coaching Theory
+PET3768 - Group Exercise Instruction
+PET3820 - Teaching Sports Skills I
+PET4143 - Current Issues & Trends in Kinesiology
+PET4315C - Biomechanics of Sport
+PET4401 - Administration and Evaluation in Physical Education and Sport
+PET4606 - Applied Fitness in Sport
+PET4710 - Methods for Physical Activity for Children and Adolescents
+PET4763 - Coaching Methods and Principles
+PET4925 - Sport and Fitness Practicum I
+PGY2401C - Beginning Photography
+PGY2813C - Creative Smart Phone Photography
+PGY3002 - Contemporary Photography
+PGY3204C - Experimental Studio Lighting in Photography
+PGY3205C - Photographic Lighting Techniques
+PGY3276 - The Professional Environment
+PGY3407C - Film and Darkroom
+PGY3410C - Intermediate Photography
+PGY3412C - Photography in the Expanded Field
+PGY3451C - Alternative Processes
+PGY3472C - Photo Visualization
+PGY3480 - Museum and Gallery Practices
+PGY3610C - Photojournalism I
+PGY3651C - Narrative Photography
+PGY3653C - Advanced Editorial Photography
+PGY3703C - Photography & the Web
+PGY3751C - Videography
+PGY3821C - Advanced Digital Printing
+PGY3933C - The Photo-book
+PGY4003 - Image, Culture, and Society
+PGY4106C - Photography Theory and Practice
+PGY4228C - Advanced Illustrative Photography
+PGY4235C - Professional Photographic Workshop
+PGY4420C - Advanced Photography
+PGY4440C - Special Problems in Photography
+PGY4471C - Photography Thesis
+PGY4493C - Photography and Art
+PGY4941 - Internship 
+PHH3100 - Ancient Philosophy
+PHH3200 - Medieval Philosophy
+PHH3460 - Modern Western Philosophy
+PHH3510 - Marx and Nietzsche
+PHH3600 - Contemporary Philosophy
+PHH3700 - American Philosophy
+PHH3701 - Native American Philosophy
+PHH4064H - Honors The Allure of Tyranny
+PHI2010 - Introduction to Philosophy
+PHI2010H - Honors Introduction to Philosophy
+PHI2011 - Philosophical Reasoning
+PHI2101 - Formal Logic I
+PHI2108 - Critical Thinking
+PHI2647 - Logic and Ethics
+PHI3033 - Philosophy, Religion, and the Environment
+PHI3083 - Research Methods in Philosophy
+PHI3131 - Formal Logic II
+PHI3320 - Philosophy of Mind
+PHI3323 - Minds and Machines: Philosophy of Cognitive Science
+PHI3451 - Philosophy of Psychology
+PHI3625 - Virtual Ethics
+PHI3626 - Advanced Ethics in Science and Technology
+PHI3629 - Family Values
+PHI3638 - Ethical Issues in the 21st Century
+PHI3640 - Environmental Ethics
+PHI3670 - Ethical Theory
+PHI3672 - Animal Ethics
+PHI3681 - AI and Big Data Ethics
+PHI3684 - Ways of Living
+PHI3700 - Philosophy of Religion
+PHI3720 - Faith and Reason
+PHI3750 - The Problem of Evil
+PHI3790 - African Philosophy
+PHI3800 - Aesthetics
+PHI4221 - Philosophy of Language
+PHI4300 - Theories of Knowledge
+PHI4321 - Philosophies of Embodiment: Mind/Body/Self
+PHI4341 - Ways of Knowing
+PHI4400 - Philosophy of Science
+PHI4420 - Philosophy of Social Science
+PHI4500 - Metaphysics
+PHI4552 - Social Reality
+PHI4633 - Ethics and Biological Science
+PHI4633H - Honors Ethics and Biological Science
+PHI4673 - Biomedical Ethics
+PHI4689 - Neuroethics
+PHI4690 - Ethics in Nanoscience and Nanotechnology
+PHI4931 - Philosophy in the News
+PHI4935 - Topics in Philosophy of Mind
+PHI4938 - Senior Research Seminar
+PHM3020 - Philosophy of Love
+PHM3100 - Freedom and Justice
+PHM3123 - Feminist Theories
+PHM3200 - The Social Contract
+PHM3401 - Philosophy of Law
+PHM4031 - Environmental Philosophy
+PHP3781 - African-American Philosophy
+PHP3783 - Modernity as a Philosophical Problem
+PHP3786 - Existentialism
+PHP4782 - Phenomenology
+PHP4931 - Key Figures in Philosophy
+PHP4933 - Key Concepts in Philosophy
+PHT3069 - Physical Assessment
+PHT3069L - Physical Assessment Lab
+PHT3113 - Gross Anatomy/Neuroscience II
+PHT3113L - Gross Anatomy/Neuroscience II Lab
+PHT3122 - Clinical Kinesiology
+PHT3122L - Clinical Kinesiology Lab
+PHT3155 - Physiology of Therapeutic Exercise
+PHT3155L - Physiology of Therapeutic Exercise Lab
+PHT3259 - Patient Care Skills
+PHT4112 - Human Gross Anatomy
+PHT4112L - Human Gross Anatomy Lab
+PHT4222 - Therapeutic Exercise I
+PHT4222L - Therapeutic Exercise I Lab
+PHT4230 - Therapeutic Exercise II
+PHT4230L - Therapeutic Exercise II Lab
+PHY1029 - Household Physics
+PHY1038 - Physics of Energy, Climate Change and Environment
+PHY1935 - Freshman Physics Seminar
+PHY2020 - Concepts of Physics
+PHY2048 - General Physics Using Calculus I
+PHY2048C - General Physics Using Calculus I Studio
+PHY2048K - Honors General Physics Using Calculus I
+PHY2048L - General Physics Using Calculus I Laboratory
+PHY2049 - General Physics Using Calculus II
+PHY2049C - General Physics Using Calculus II Studio
+PHY2049K - Honors General Physics Using Calculus II
+PHY2049L - General Physics Using Calculus II Laboratory
+PHY2053 - College Physics I
+PHY2053C - College Physics I Studio
+PHY2053K - Honors College Physics I
+PHY2053L - College Physics I Laboratory
+PHY2054 - College Physics II
+PHY2054C - College Physics II Studio
+PHY2054K - Honors College Physics II
+PHY2054L - College Physics II Laboratory
+PHY3101 - General Physics Using Calculus III
+PHY3101H - Honors General Physics Using Calculus III
+PHY3220 - Mechanics I
+PHY3323 - Electricity and Magnetism I
+PHY3513 - Thermal and Statistical Physics
+PHY3650 - Quantum Information Processing
+PHY3722C - Physics Laboratory-Electronics
+PHY3752C - Physics of Scientific Instruments
+PHY3802L - Intermediate Physics Laboratory
+PHY3905 - Directed Independent Study
+PHY3945 - Physics Pedagogy Seminar
+PHY4012 - Teaching Introductory Physics
+PHY4254 - Physics of Fluids
+PHY4324 - Electricity and Magnetism II
+PHY4424 - Optics
+PHY4445 - Lasers
+PHY4604 - Wave Mechanics I
+PHY4605 - Wave Mechanics II
+PHY4803L - Advanced Physics Laboratory
+PHY4912 - Directed Independent Research
+PHZ3113 - Introduction to Theoretical Methods of Physics
+PHZ3150 - Introduction to Numerical Computing
+PHZ3151 - Computer Methods in Physics
+PHZ3361 - The Interaction of Radiation with Matter and its Measurement
+PHZ3422 - Nanophysics
+PHZ3601 - Einstein's Theory of Relativity
+PHZ4390 - Nuclear and Particle Physics
+PHZ4404 - Solid State Physics
+PHZ4624 - General Relativity
+PLA3014 - Law and the Legal System
+PLA3108 - Legal Research
+PLA3155 - Legal Writing
+PLA3205 - Civil Practice and Procedure
+PLA3277 - The Law of Torts
+PLA3306 - Criminal Law
+PLA3309 - Criminal Procedure
+PLA3615 - Property and Real Estate Law
+PLA3871 - Law and Technology
+PLA3871H - Honors Law and Technology: Drones and Artificial Intelligence
+PLA3951H - Honors Moot Court
+PLA4020 - Law and Society
+PLA4022 - Contemporary Issues in Law
+PLA4024 - Poverty Law and Community Advocacy
+PLA4081 - Persuasion & the Law
+PLA4156 - Legal Scholarship
+PLA4160 - Law on Trial: Empirical Legal Scholarship
+PLA4191 - Thinking, Like a Lawyer
+PLA4226 - Advanced Trial Advocacy
+PLA4240 - Negotiation Alternatives in Law
+PLA4243 - Negotiation in Practice
+PLA4244 - Community Mediation and Conflict Resolution
+PLA4263 - Evidence
+PLA4410 - Intellectual Property Law and Practice
+PLA4410H - Hon: Intellectual Property Law and Practice
+PLA4424 - The Law of Contracts
+PLA4436 - Florida Partnerships and Corporations
+PLA4464 - Bankruptcy Law
+PLA4472 - Employment Discrimination Law
+PLA4485 - Administrative Law
+PLA4510 - Law and Emotion
+PLA4511 - Law and Human Behavior
+PLA4525 - Disability Rights and Protections (A Legal Perspective)
+PLA4530 - Legal Issues of the Elderly
+PLA4545 - Military Law - the Law of War
+PLA4554 - Environmental Law
+PLA4571 - Intercultural Legal Competence
+PLA4585 - Cybersecurity and the Law
+PLA4607 - Estates and Trusts
+PLA4617 - Urban Development Law
+PLA4703 - Professional Ethics and Liability
+PLA4705 - Professionalism & Civility in the Law
+PLA4734 - Advanced Legal Applications Computer Software
+PLA4764 - Law Office Practices
+PLA4806 - Domestic Relations Law
+PLA4807 - Adoption Law
+PLA4813 - Juvenile Law and Procedure
+PLA4823 - Sports Law
+PLA4825 - Entertainment Law
+PLA4830 - World Legal Systems
+PLA4834 - Study Abroad: US/UK Comparative Law
+PLA4843 - Immigration Law and Policy
+PLA4861 - Aviation Law
+PLA4864 - Admiralty and Maritime Law
+PLA4886 - Sexuality, Gender, & the Law
+PLA4887 - Law, Social Science, and the Criminal Courts
+PLA4910 - Trial Advocacy
+PLA4935 - Capstone: Legal Issues
+PLA4941 - Internship
+PLA4942 - Mediation Practicum
+PLA4952 - Advanced Moot Court
+PLA4956 - Undergraduate Law Journal
+POR1120C - Elementary Portuguese Language and Civilization I
+POR1121C - Elementary Portuguese Language and Civilization II
+POR2200 - Intermediate Portuguese I
+POR2201 - Intermediate Portuguese II
+POR3140 - Accelerated Portuguese for Speakers of Romance Languages
+POR3300 - Portuguese Composition
+POR3301 - Advanced Portuguese Grammar and Composition
+POR3413 - Advanced Portuguese Oral Communication
+POR3440 - Business Portuguese
+POR3450 - Luso-Afro-Brazilian Triangle
+POS2012 - Working in Politics
+POS2041 - American National Government
+POS2041H - Honors American National Government
+POS3076 - American Indian Politics
+POS3122 - State Government and Public Policy
+POS3173 - Southern Politics
+POS3182 - Florida Politics
+POS3182H - Honors Florida Politics
+POS3233 - Public Opinion
+POS3234 - Protest in American Politics
+POS3235 - Mass Media and Politics
+POS3235H - Honors Mass Media and Politics
+POS3258 - Politics in Film
+POS3272 - Civic Engagement
+POS3273 - Voting and Elections
+POS3413 - The American Presidency
+POS3424 - Congress and the Legislative Process
+POS3443 - Political Parties and Processes
+POS3463 - Interest Groups
+POS3703 - Scope and Methods of Political Science
+POS3703H - Honors Scope and Methods
+POS3733 - Designing Political Science Research
+POS3949 - Cooperative Education in Political Science
+POS4023 - The Politics of LGBTQ+ Policy
+POS4030 - The Politics of Sports
+POS4074 - Latino Politics
+POS4142 - Metropolitan Politics
+POS4204 - Political Behavior
+POS4206 - Political Psychology
+POS4244 - Political Socialization
+POS4284 - Judicial Process and Politics
+POS4300 - Research Methods and Intelligence
+POS4407 - The Intelligence Community
+POS4412 - Presidential Campaigning
+POS4603 - American Constitutional Law I
+POS4604 - American Constitutional Law II
+POS4622 - Politics and Civil Rights
+POS4623 - Guns, Freedom and Citizenship
+POS4682 - National Security Law
+POS4700 - Teaching American Politics and Government
+POS4764 - GIS for Political Analysis
+POS4941 - Political Science Internship
+POS4961 - Exit Course
+POT3206 - Political Ideals and the U.S. Constitution
+POT3302 - Modern Political Ideologies
+POT4003 - Political Theory
+POT4025 - Ancient, Medieval and Early Modern Political Philosophy
+POT4066 - Contemporary Political Theory
+POT4109H - Honors Politics and Literature
+POT4305 - Democracy, Capitalism, and the Individual
+POT4314 - Contemporary Democratic Theory
+POT4320 - Conspiracy Theories and Democracy
+POT4331 - Utopia/Dystopia
+POT4632 - Religion and Politics
+PPE3003 - Personality Theory and Research
+PPE3003H - Honors Personality Theory
+PSB3002 - Physiological Psychology
+PSB3002H - Honors Physiological Psychology
+PSB3441 - Psychobiological Aspects of Drugs
+PSB3842 - Sleep and Dreams
+PSB4240 - Neuropsychology
+PSC1121 - Physical Science
+PSC1801 - Physics in Films
+PSC3911 - FLC Physical Science Capstone R/I
+PSY2012 - General Psychology
+PSY2012H - Honors General Psychology
+PSY3022C - Academic Counseling
+PSY3024 - Psychology: Career Readiness I
+PSY3074 - Psychology: Career Readiness II
+PSY3204C - Statistical Methods in Psychology
+PSY3204K - Honors Statistical Methods in Psychology
+PSY3213C - Research Methods in Psychology
+PSY3213K - Honors Research Methods in Psychology
+PSY3302 - Psychological Measurement
+PSY3320C - Survey Methods in Psychology
+PSY3625 - Science and Pseudoscience in Psychology
+PSY3630 - Psychology of Human-Animal Interaction
+PSY3905 - Directed Independent Study
+PSY3951 - Undergraduate Field Work
+PSY4025 - The Psychology of Art
+PSY4025H - Honors Psychology of Art
+PSY4049 - Psychology Capstone
+PSY4215C - Advanced Research Methods in Psychology
+PSY4215K - Honors Advanced Research Methods in Psychology
+PSY4604 - History and Systems of Psychology
+PSY4604H - Honors History and Systems in Psychology
+PSY4860 - Positive Psychology
+PSY4912 - Directed Independent Research
+PSY4942 - Instructional Experiences in Undergraduate Psychology
+PUP3014 - Comparative Public Policy
+PUP3203 - Environmental Politics
+PUP3204 - Sustainability
+PUP3204H - Honors Sustainability
+PUP3314 - Minorities in American Politics
+PUP4003 - American Public Policy
+PUP4209 - Urban Environmental Policy
+PUP4323 - Women and Public Policy
+PUP4404 - Education and Politics
+PUP4503 - Government and Science
+PUP4510 - Space Policy
+PUP4744 - Government and Business
+PUP4931 - Topics in Public Policy
+PUR3100 - Writing for Public Relations
+PUR3210 - Communication Approach to Corporate Social Responsibility
+PUR3463 - Public Relations in Sport 
+PUR3500 - Public Relations Research Methods
+PUR3912 - Collaborative Experiential Research Practicum
+PUR4000 - Public Relations
+PUR4000H - Honors Public Relations
+PUR4014 - Preparing for Public Relations Certification
+PUR4110C - Public Relations Publications
+PUR4203 - PR/Advertising Ethics and Law
+PUR4400 - Crisis Communication
+PUR4464 - Crisis Media Relations in Sport
+PUR4600 - PR Strategies
+PUR4801 - Public Relations Case Studies
+PUR4903H - Honors Directed Reading I
+PUR4906 - Independent Study
+PUR4912 - Research
+PUR4941 - Internship
+PUR4970H - Honors Undergrad Thesis
+QMB3003 - Quantitative Business Tools I
+QMB3200 - Quantitative Business Tools II
+QMB3310 - Spreadsheets in Business Analytics
+QMB3311 - Python for Business Analytics
+QMB3602 - Business Research for Decision Making
+QMB4700 - Managerial Decision Making
+QMB4911 - Capstone Project in Business Analytics
+RED3012 - Basic Foundations of Reading
+RED3310 - Early Reading, Writing and Language Arts
+RED4043 - Content Reading in Kindergarten through Grade 12
+RED4311 - Primary Reading, Writing, and Language Arts Curriculum and Assessment
+RED4519 - Diagnostic and Corrective Reading Strategies
+RED4942 - Practicum for Assessment and Instruction of Reading
+REE3043 - Fundamentals of Real Estate
+REE3433 - Real Estate Law
+REE3614 - Environmental Issues for Real Estate
+REE4103 - Real Estate Appraisal and Valuation
+REE4203 - Commercial Real Estate Finance
+REE4204 - Residential Real Estate Finance
+REE4303 - Real Estate Investment Analysis
+REE4312 - Real Estate Market Analysis
+REE4732 - Real Estate Development
+REE4933 - Advanced Topics in Real Estate
+REE4941 - Internship
+REL2000 - Introduction to Religion and Cultural Studies
+REL2300 - World Religions
+REL2300H - Honors World Religions
+REL3045 - Interfaith Dialogue
+REL3076 - Cults, Minority Religions, and New Religious Movements
+REL3101 - Religion in Popular Culture
+REL3111 - Religion and Philosophy Through Film
+REL3115 - Religion, Spirituality, and Popular Music
+REL3123 - Asian Religions in America
+REL3130 - Religion in America
+REL3181 - Religion and Applied Ethics
+REL3195 - Sex and the Sacred
+REL3199 - Material Religion
+REL3320 - Moses, Jesus and Muhammad
+REL3333 - Hinduism
+REL3340 - Buddhism
+REL3363 - Islam
+REL3403 - Christianity
+REL3432 - Mysticism
+REL4110 - Religion and the Arts
+REL4157 - Religion and Psychoanalysis
+REL4178 - Religion and Law
+REL4180 - Religion and Medicine
+REL4180H - Honors Religion and Medicine
+REL4496 - Key Concepts in Religion and Cultural Studies
+REL4910 - Senior Research Seminar
+REL4936 - Key Figures in Religion and Cultural Studies
+RTV3007 - Development and Structure of Electronic Media and New Technology
+RTV3101 - Writing for the Electronic Media
+RTV3110 - Writing for Sports Media
+RTV3301 - Electronic Journalism I
+RTV3304 - Electronic Journalism II
+RTV3321C - Electronic News Gathering
+RTV3511 - Production Fundamentals and Aesthetics of Electronic Media
+RTV3531 - Principles of Videography
+RTV3543C - Principles of Studio Production
+RTV3556C - Audio Production I
+RTV3571C - Advanced Video Post-Production
+RTV3576C - Principles of Post Production
+RTV3581C - Lighting and Advanced Videography
+RTV3590C - Production of Interactive Multimedia
+RTV3601C - Broadcast Announcing and Performance
+RTV3942L - Practicum
+RTV3943L - NSCM Studio News Crew Workshop
+RTV3945 - WUCF Public Media Practicum
+RTV4292 - Sports Media: Live Game Broadcast Production
+RTV4293 - Elements of Comedy Production 
+RTV4401 - Mass Media Effects
+RTV4403 - Electronic Media, Technology, and Society
+RTV4406 - Electronic Media Audience Measurement
+RTV4503 - Sports Programming in Electronic Media
+RTV4505 - Program Issues for TV & Motion Pictures
+RTV4544 - Media Production Capstone
+RTV4561C - Radio Production and Programming
+RTV4591C - Webcasting I
+RTV4595C - Sports Webcasting
+RTV4681C - Television News
+RTV4700 - Media Policy and Regulations
+RTV4800 - Broadcast Management
+RTV4906 - Directed Independent Study
+RTV4941 - Internship
+RUS1120 - Elementary Russian Language and Civilization I
+RUS1121 - Elementary Russian Language and Civilization II
+RUS2200 - Intermediate Russian Language and Civilization I
+RUS2201 - Intermediate Russian Language and Civilization II
+RUS3240 - Russian Conversation
+RUS3760 - Advanced Russian Oral Communication
+RUS3955 - Study Abroad
+RUT3505 - Russian Culture and Civilization
+SCC3311 - Security Administration
+SCC3316 - Transportation Security
+SCE3053 - Elementary Science for Teaching
+SCE3310 - Teaching Science in Elementary School
+SCE4304 - Teaching Science and Technology to Young Children
+SCE4360 - Science Instructional Analysis
+SCE4361 - Programs in Teaching Science
+SCE4633 - Secondary Science Curriculum
+SCE4933 - Seminar on Secondary Science Education
+SLS1122 - Strategies for Student Success
+SLS1501 - Strategies for Success in College
+SLS2311C - Overview of Select Medical Careers
+SLS2400 - Personal Leadership
+SLS2715 - Peer Educator Leadership
+SLS3521 - Foundations of Academic Research For Learning Communities I
+SLS3523 - Introduction to Academic Research
+SLS3933 - COS New Transfer Seminar
+SLS4522 - Foundations of Academic Research For Learning Communities II
+SOP2772 - Sexual Behavior
+SOP3004 - Social Psychology
+SOP3702 - Psychology of Gender
+SOP3723 - Cross Cultural Psychology
+SOP3724 - Psychology of Prejudice
+SOP3742 - Psychology of Women
+SOP3751 - Legal Aspects of Psychology
+SOP3784 - Psychology of Diversity
+SOW2020 - Careers in Creating Social Change
+SOW3104 - Human Behavior and the Social Environment I
+SOW3111 - Human Behavior and the Social Environment II
+SOW3284 - Social Work Perspectives on Social Justice
+SOW3300 - Practice I:Generalist Practice in Social Work
+SOW3352 - Practice II: Interpersonal Skills in Social Work
+SOW3401 - Social Work Research
+SOW3620 - Culturally Competent Social Work Practice
+SOW3740 - Social Work Practice with Loss & Life's Transitions
+SOW4133 - Aspects of Sexuality & Spirituality in Social Work Practice
+SOW4148 - Introduction to Military & Veteran Culture for Social Work Practice
+SOW4194 - Relationship and Interpersonal Violence: Global Perspectives
+SOW4232 - Social Welfare Policies and Issues
+SOW4283 - Social Work and the Law
+SOW4322 - Social Work Practice with Groups
+SOW4341 - Micro-Level Roles and Interventions in Social Work
+SOW4343 - Macro-Level Roles and Interventions in Social Work
+SOW4510 - Field Education
+SOW4515 - Part Time Field Education Seminar
+SOW4522 - Field Education Seminar
+SOW4602 - Social Work in Health Settings
+SOW4645 - Social Services for the Elderly
+SOW4650 - Child Abuse: Treatment and Prevention
+SOW4654 - Children's Services
+SOW4673 - Social Work Practice: The Lesbian, Gay, Bisexual, and Transgender (+) Experience
+SOW4705 - Prevention and Treatment of Adolescent Substance Abuse
+SOW4706 - Intervention with Substance Abusers
+SOW4730 - Documentation in Social Work Practice
+SOW4754 - Forensic Social Work Theory and Practice
+SOW4794 - Social Work with Immigrants and Refugees
+SOW4941 - Internship
+SPA3002 - Introduction to Communication Sciences and Disorders
+SPA3011 - Speech Science
+SPA3011L - Speech Production lab
+SPA3101 - Anatomy and Physiology of Speech, Language, and Hearing
+SPA3112 - Basic Phonetics
+SPA3112L - Basic Phonetics Lab
+SPA3123C - Speech Science II: Perception
+SPA3123L - Speech Perception Lab
+SPA3412 - Communication and Cognition: Brain Stories
+SPA3471 - Communication Disorders in Literature and Media
+SPA3472 - Behavioral Methods in Communication Disorders
+SPA4032 - Audiology
+SPA4104 - Neurological Bases of Speech, Language, and Hearing
+SPA4326 - Hearing Disorders Across the Lifespan
+SPA4400 - Language Disorders Across the Life Span
+SPA4476 - Speech Disorders Across the Lifespan
+SPA4478 - Multicultural Aspects of Communication Disorders & Differences
+SPA4555 - Counseling in Communication Disorders
+SPA4634 - Educational Implications of Deafness
+SPA4803 - Research Methods in Communication Sciences and Disorders
+SPA4870C - Capstone: Communication Sciences and Disorders
+SPB3003 - Introduction to Sport Business Management
+SPB3603 - Diversity and Social Issues in Sport Business Management
+SPB3823 - The Role of Business Entrepreneurship in Sports/Entertainment
+SPB4023 - Business of HipHop Innovation and Entrepreneurship  
+SPB4251 - Business Law in Sport & Entertainment
+SPB4304 - Sports Event and Facility Management
+SPB4804 - Sport Business and Media
+SPC1603C - Fundamentals of Technical Presentations
+SPC1603K - Honors Fundamentals of Technical Presentation
+SPC1608 - Fundamentals of Oral Communication
+SPC1608H - Honors Fundamentals of Oral Communication
+SPC3301 - Interpersonal Communication
+SPC3445 - Leadership Through Oral Communication
+SPC3602 - Advanced Public Communication
+SPC3942 - Speech and Debate Practicum
+SPC4302 - Advanced Interpersonal Communication
+SPC4331 - Nonverbal Communication
+SPC4426 - Group Dynamics
+SPC4513C - Argumentation and Debate
+SPC4513K - Honors Argumentation and Advocacy
+SPC4540 - Persuasion and Communication
+SPC4949 - Cooperative Education in Speech Communication
+SPM3130 - Aquatic Management
+SPM3204 - Sports and Ethics
+SPM3415 - Public Relations in Sport and Athletic Coaching
+SPM3504 - Risk Management and Administrative Responsibilities in Kinesiology
+SPM4723 - Legal Issues in Sport and Athletic Coaching
+SPN1120C - Elementary Spanish Language and Civilization I
+SPN1120K - Honors Elementary Spanish Language and Civilization I
+SPN1121C - Elementary Spanish Language and Civilization II
+SPN1121K - Honors Elementary Spanish Language and Civilization II
+SPN1150C - Intensive Beginning Spanish
+SPN2200 - Intermediate Spanish Language and Civilization I
+SPN2200H - Honors Intermediate Spanish
+SPN2201 - Intermediate Spanish Language and Civilization II
+SPN2340 - Spanish for Heritage Speakers I
+SPN2341 - Spanish for Heritage Speakers II
+SPN3140 - Business Spanish I
+SPN3141 - Business Spanish II
+SPN3142 - Business Spanish III
+SPN3234 - Advanced Directed Readings
+SPN3300 - Advanced Spanish Grammar and Composition
+SPN3343 - Advanced Rhetoric for Spanish Communication
+SPN3344 - Advanced Spanish Native Fluency I
+SPN3345 - Advanced Spanish Native Fluency II
+SPN3420 -  Advanced Spanish Writing and Composition 
+SPN3512 - Contemporary Spanish Culture Abroad
+SPN3760 - Advanced Spanish Oral Communication
+SPN4143 - Business Spanish IV
+SPN4410 - Advanced Spanish Conversation
+SPN4421 - Advanced Spanish Composition
+SPN4510 - Spanish Civilization and Culture
+SPN4520 - Latin American Civilization and Culture
+SPN4780 - Spanish Phonetics
+SPN4800 - The Syntax of Spanish
+SPN4801 - Spanish Morphology
+SPN4850 - Structure of the Spanish Language
+SPN4852 - Bilinguismo
+SPT3414 - Spanish for Tourism I
+SPT3800 - Spanish Translation and Interpretation
+SPT3805 - Spanish Translation and Interpretation for Mass Communication
+SPT3809 - Medical Spanish Translation/Interpretation
+SPT3820 - Computer Assisted Translation Tools
+SPT3831 - Spanish Legal Translation and Interpretation
+SPT4801 - Spanish Translation Practicum
+SPW3100 - Survey of Spanish Literature I
+SPW3101 - Survey of Spanish Literature II
+SPW3130 - Survey of Latin-American Literature I
+SPW3131 - Survey of Latin-American Literature II
+SPW4272 - 20th Century Spanish Novel
+SPW4310 - Early Modern Spanish Theatre
+SPW4322 - Contemporary Iberian Theatre
+SPW4364 - Latin-American Narrative/Essay
+SPW4372 - Spanish Short Story
+SPW4381 - Latin-American Theatre/Poetry
+SPW4382 - Central American Literature
+SPW4400 - Spanish Medieval Literature
+SPW4460 - Nineteenth Century Spanish Literature
+SPW4604 - Cervantes
+SPW4720 - The Generation of 1898
+SPW4730 - Hispanic Literature of the United States
+SPW4770 - Caribbean Spanish Literature
+SPW4773 - Puerto Rican Literature
+SSE3112 - Elementary Social Studies for Teaching
+SSE3312 - Teaching Social Science in the Elementary School
+SSE4042 - Teaching Social Science as a Profession
+SSE4323 - Teaching Civics in Florida
+SSE4361 - Social Science Instructional Analysis
+SSE4395 - Teaching with Primary Sources
+SSE4632 - Contemporary Social Science Education
+SSE4936 - Programs in Teaching Social Science
+STA2014 - Principles of Statistics
+STA2023 - Statistical Methods I
+STA2023H - Honors Statistical Methods I
+STA3032 - Probability and Statistics for Engineers
+STA3032H - Honors Probability and Statistics for Engineers
+STA4102 - Computer Processing of Statistical Data
+STA4130 - Life Contingencies I
+STA4131 - Life Contingencies II
+STA4133 - Loss Models I
+STA4135 - Loss Models II
+STA4163 - Statistical Methods II
+STA4163H - Honors Statistical Methods II
+STA4164 - Statistical Methods III
+STA4173 - Biostatistical Methods
+STA4183 - Theory of Interest
+STA4184 - Introduction to Derivative Markets
+STA4186 - Theory of Derivative Pricing
+STA4222 - Sample Survey Methods
+STA4241 - Statistical Learning
+STA4321 - Statistical Theory I
+STA4322 - Statistical Theory II
+STA4345 - Applied Bayesian Statistics
+STA4364 - Statistical Foundations of Data Science and Artificial Intelligence I
+STA4365 - Statistical Foundations of Data Science and Artificial Intelligence II
+STA4502 - Nonparametric Statistical Methods
+STA4504 - Categorical Data Analysis
+STA4664 - Statistical Quality Control
+STA4724 - Big Data Analytics Methods
+STA4852 - Applied Time Series
+SYA3110 - Social Theory
+SYA3352 - Spatial Sociology I: Intro to GIS
+SYA3400C - Applied Social Statistics
+SYA4300C - Research Methods
+SYA4310C - Qualitative Research Analysis in Sociology
+SYA4352 - Advanced Topics in GIS
+SYA4354 - Geographic Information Systems Applications
+SYA4410 - Geographic Information Systems for Public Health and Society
+SYA4450 - Data Analysis: Capstone
+SYA4650C - Community Action and Involvement
+SYA4900 - Applied Sociology
+SYA4959 - Participatory Geographic Information Systems in Belize
+SYD3410 - Urban Society
+SYD3700 - Race and Ethnicity
+SYD3772 - Race and Social Media
+SYD3800 - Sex and Gender in Society
+SYD3805 - Sociology of Sexualities
+SYD4020 - Birth, Death, and Population Trends
+SYD4510 - Environment and Society
+SYD4810 - Women in Contemporary Society
+SYD4813 - Women, Law and Social Change
+SYD4820 - Men, Masculinities and Society
+SYG2000 - Introduction to Sociology
+SYG2000H - Honors Introduction to Sociology
+SYG2010 - Social Problems
+SYG3938 - Careers in Sociology
+SYG4244 - Food and Society
+SYO3000 - Contemporary Society
+SYO3408 - Animals and Health
+SYO3410 - Mental Health in Society
+SYO3410H - Honors Patterns of Mental Health in Society
+SYO3530 - Social Power and Inequality
+SYO3573 - Social Networks: Theory & Applications
+SYO4100 - Family Trends
+SYO4132 - Global Family Trends
+SYO4133 - Family and Aging in Society
+SYO4200 - Religion in Society
+SYO4250 - Education and Social Achievement
+SYO4300 - Political Sociology
+SYO4323 - Community and Diversity
+SYO4400 - Medical Sociology
+SYO4400H - Honors Medical Sociology
+SYO4401 - Social Determinants of Health
+SYO4402 - Sociology of Health and Illness Behavior
+SYO4403 - Sociology of Risk
+SYO4424 - Men, Masculinities, and Health
+SYO4428 - Sociology of Health Care
+SYO4429 - Social Identities & Health
+SYP3060 - Sociology of Sex and Reproduction
+SYP3300 - Fads, Crowds, and Social Action
+SYP3323 - Video Games in Society
+SYP3400 - Social Change
+SYP3510 - Sociology of Deviant Behavior
+SYP3511 - Sociology of Murder
+SYP3520 - Criminology
+SYP3523 - Sexual Violence in Society
+SYP3530 - Juvenile Delinquency
+SYP3540 - Sociology of Law
+SYP3551 - Alcohol in Society
+SYP3562 - Domestic Violence in Society
+SYP3602 - Popular Music in Society
+SYP3630 - Popular Culture In Society
+SYP3650 - Sports and Society
+SYP4000 - Sociological Social Psychology
+SYP4004 - Constructing Social Issues
+SYP4014 - Sociology of Happiness
+SYP4044 - Social Capital and Caregiving from an International Perspective
+SYP4304 - Social Movements and Revolutions
+SYP4411 - Sociology of War
+SYP4420 - The Consumer Society
+SYP4454 - Global Inequality and Society
+SYP4514 - Violence in Society
+SYP4521 - Crime Victims in Society
+SYP4536 - Gangs and Society
+SYP4550 - Drug Use in Society
+SYP4631 - Social Issues in Film
+SYP4730 - Aging in Society
+SYP4731 - Health and Positive Aging
+SYP4732 - Minority Aging and Health
+TAX4001 - Taxation of Business Entities and Transactions
+TAX4022 - Individual Federal Income Tax
+THE2000 - Theatre Survey
+THE2000H - Honors Theatre Survey
+THE2081C - Introduction to UCF Theatre 
+THE2090L - Theatre Participation
+THE2305 - Script Analysis for Theatre
+THE2925L - Theatre Participation - Management I
+THE3006 - Greece to Grease: Development of Theatre
+THE3006H - Honors From Greece to Grease
+THE3053 - Theatre for Young Audiences and Communities 
+THE3082 - The Theatre Business and Industry 
+THE3240 - Evolution of Musical Theatre
+THE3250 - Sex, Drugs, & the Rock and Roll Musical
+THE3254 - Queer Theatre
+THE3272 - Shakespeare to RuPaul: Drag in Entertainment
+THE3311 - Theatre History and Dramatic Literature I
+THE3312 - Theatre History and Dramatic Literature II
+THE3313 - Theatre History and Dramatic Literature III
+THE3333 - Shakespeare Skills
+THE3383 - Taboo Theatre: Sex & Violence on Stage
+THE3549 - Topics in Theatre Studies
+THE3753 - Theatre Studies in Creative Drama
+THE3760 - Teaching Theatre
+THE4085 - Health and Wellness for the Performing Artist
+THE4093L - Theatre Participation-Management II
+THE4212 - Global Theatre
+THE4230 - Cultural Diversity in Theater
+THE4253H - Honors Amusing and Biting: Dramatic Comedy Through the Ages 
+THE4284 - Period Costume, Architecture, and Decor I
+THE4285 - Period Costume, Architecture, and Decor II
+THE4423 - Women in Theatre
+THE4481 - Dramaturgy
+THE4543 - Theatre for Social Change
+THE4543H - Honors Theatre for Social Change
+THE4822H - Honors Creative Processes: Theory and Practice 
+THE4830H - Honors Thrive: The How of Happiness 
+THE4954 - Theatre Exit Critique
+TPA1990 - BFA Review I
+TPA2000C - Theatre Design Basics
+TPA2001 - Introduction to Design for Theatre
+TPA2071C - Theatre Rendering
+TPA2200 - Introduction to Technical Theatre
+TPA2200L - Intro to Technical Theatre Lab
+TPA2210 - Stagecraft I
+TPA2210L - Stagecraft I Lab
+TPA2211 - Stagecraft II
+TPA2211L - Stagecraft II Lab
+TPA2220 - Stage Electronics
+TPA2220L - Stage Electronics Lab 
+TPA2232C - Costume Construction
+TPA2248C - Makeup Techniques
+TPA2290L - Theatre Participation-Production I
+TPA2600C - Stage Management: Introduction
+TPA2991 - BFA Review II
+TPA3045C - Costume Design for Theatre I
+TPA3060C - Scenic Design for Theatre I
+TPA3077C - Scene Painting
+TPA3172 - Flash, Bash, and Splash: Concerts, Wrestling, & Circus
+TPA3183 - The Themed Experience
+TPA3195L - Summer Theatre Studio/Tech/Design I
+TPA3197L - Summer Theatre Studio/Tech/Design II
+TPA3223C - Lighting Design for Theatre I
+TPA3249C - Advanced Makeup Techniques
+TPA3265C - Sound Design for Theatre I
+TPA3383C - Topics in Technical Theatre
+TPA3513 - Season Selection
+TPA3523 - New Play Festival 
+TPA3601C - Stage Management: Techniques
+TPA3992 - BFA Review III
+TPA3995 - Preliminary Portfolio Review
+TPA4066C - Advanced Scenography
+TPA4250C - CADD for Theatre
+TPA4251C - Advanced CADD for Theatre
+TPA4298L - Theatre Participation-Production II
+TPA4384C - Advanced Topics in Technical Theatre
+TPA4400 - Theatre Management
+TPA4401C - Theatre Careers in Production
+TPA4602C - Stage Management: Applications
+TPA4604C - Stage Management: Professional Practice
+TPA4900 - Capstone Portfolio Review
+TPP2110C - Acting I - Freeing the Actor 
+TPP2120C - Improvisation for the Actor
+TPP2170C - Acting II - The Actor and Text
+TPP2185 - Acting for Non-majors
+TPP2190L - Theatre Participation-Performance I
+TPP2700C - Stage Speech/Voice
+TPP2710C - Freeing the Voice
+TPP2742C - Estill for Musical Theatre – Craft
+TPP3103 - Intermediate Acting
+TPP3173C - Acting III - The Actor and Character
+TPP3197L - Summer Theatre/Performance
+TPP3245 - Topics in Theatre Performance
+TPP3251C - Musical Theatre Monologue
+TPP3252C - Musical Theatre Scene Study
+TPP3257C - Musical Theatre Voice Techniques
+TPP3258C - Musical Theatre Voice Styles
+TPP3264C - Acting on Camera
+TPP3272C - Estill for Musical Theatre – Artistry
+TPP3310 - The Theatre Director's Role 
+TPP3384C - Casting
+TPP3406 - Devising Theatre
+TPP3510C - Movement for the Actor I
+TPP3513C - Movement for the Actor II
+TPP3711C - Voice and International Phonetic Alphabet 
+TPP3712C - Voice and Heightened Text 
+TPP3743C - Musical Theatre Applied/Studio Voice I
+TPP3744C - Musical Theatre Applied/Studio Voice II
+TPP3952L - Summer Studio Performance
+TPP4140C - Acting IV - The Actor at Play
+TPP4142C - Acting Verse
+TPP4143C - Acting Styles
+TPP4193L - Theatre Participation-Performance II
+TPP4221 - Auditioning
+TPP4223C - Theatre Careers in Performance
+TPP4243C - Circus Arts
+TPP4244 - The Art of Storytelling
+TPP4244H - Honors The Art of Storytelling
+TPP4259C - MT Applied/Studio Voice III
+TPP4265C - Camera Acting
+TPP4270C - MT Applied/Studio Voice IV
+TPP4271C - MT Applied/Studio Voice V
+TPP4311C - Advanced Directing for Theatre
+TPP4523C - Period Movement
+TPP4530C - Stage Combat
+TPP4730C - Voice and Accents
+TPP4734 - Voice Acting
+TPP4746C - Musical Theatre Auditioning
+TPP4923C - MT Applied/Studio Voice VI
+TPP4940L - Theatre Internship
+TSL3251 - Applied Linguistics for ESL
+TSL3346 - Introduction to TEFL
+TSL4080 - Theory and Practice of Teaching ESOL Students in Schools
+TSL4101 - Materials and Assessment in TEFL
+TSL4240 - Issues in Second Language Acquisition
+TSL4255 - Sociolinguistics for ESL
+TSL4363 - ESL Classroom Experiences
+TSL4520 - ESOL Cultural Diversity
+TSL4942 - ESOL Field Experience
+TSL4943 - L2 Academic Language Instruction
+TSL4945 - ESOL Clinical Experience
+TTE3810 - Highway Engineering
+TTE4274 - Transportation Engineering Systems
+TTE4300 - Transportation Analytics
+TTE4601C - Urban Systems Design
+VIC3001 - Visual Communication
+VIC4312 - Power Branding
+WOH2012 - World Civilization I
+WOH2012H - Honors World Civilization I
+WOH2022 - World Civilization II
+WOH2022H - Honors World Civilization II
+WOH4208 - History of the Global Drug Trade
+WOH4225 - The Atlantic World to 1810
+WOH4272 - Age of Atlantic Revolutions 1763-1826
+WOH4273 - Age of Atlantic Revolutions 1848-1920
+WOH4425 - History of Western Legal Thought
+WOH4430 - Law and Disorder: Piracy and Maritime Law in the Atlantic World
+WST3015 - Introduction to Women's Studies
+WST3020 - Girls' Studies
+WST3371 - Women and Leadership
+WST3371H - Honors Women and Leadership
+WST3460 - Women, Race and Struggle
+WST3460H - Honors Women, Race and Struggle
+WST3522 - First and Second Wave Feminisms
+WST3561 - Third Wave Feminisms
+WST3603 - Introduction to Gender Studies
+WST3610 - Gender and Technology
+WST3621 - Theories of Masculinity
+WST4312 - Representations in Motherhood
+WST4349 - Ecofeminism
+WST4415 - Global and Transnational Feminism
+WST4941 - Internship
+ZOO3001 - Integrated Principles of Zoology
+ZOO3454 - Ichthyology
+ZOO3713 - Comparative Vertebrate Anatomy
+ZOO3713L - Comparative Vertebrate Anatomy Lab
+ZOO3733C - Human Anatomy
+ZOO3733K - Honors Human Anatomy
+ZOO3736C - Exercise Physiology Anatomy
+ZOO3744 - Neurobiology
+ZOO3744H - Honors Neurobiology
+ZOO3755C - Introductory Histology
+ZOO4205C - Invertebrate Biodiversity
+ZOO4272 - Ornithology
+ZOO4310C - Vertebrate Evolution & Ecology
+ZOO4405C - Sea Turtle Ecology and Conservation Internship
+ZOO4462C - Herpetology
+ZOO4480 - Mammalogy
+ZOO4480L - Mammalogy Lab
+ZOO4513 - Animal Behavior
+ZOO4603C - Embryology/Development
+ZOO4605 - Human Clinical Embryology and Congenital Malformation
+ZOO4701 - Dissection Techniques
+ZOO4735 - Anatomy of the Head and Neck
+ZOO4742 - Advanced Neurobiology
+ZOO4743C - Clinical Neuroanatomy and Neuroscience
+ZOO4743K - Honors Clinical Neuroanatomy
+ZOO4747C - Clinical Neuroscience
+ZOO4747K - Honors Clinical Neuroscience
+ZOO4753C - Human Histology
+ZOO4756C - Comparative Vertebrate Histology
+ZOO4910L - Research Experience in Animal Behavior in a Zoo Environment
